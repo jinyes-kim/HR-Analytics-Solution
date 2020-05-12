@@ -22,3 +22,7 @@ class HR:
                      self.major, self.job_role, self.satisfaction, self.marital_status,
                      self.income, self.rate))
 
+
+def print_column():
+    print('ID\t\tAge\t\tGender\t\tAttrition\t\tDepartment\t\tDistanceFromHome\t\tMajor\t\t\t\tJob Role\t\tSatisfaction'
+          '\t\tMarital Status\t\tIncome\t\tRate')
