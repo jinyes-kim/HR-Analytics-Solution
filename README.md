@@ -13,4 +13,4 @@
 -(4). statis
 -(5). login (using sqlit3 & excel file)
 
-https://user-images.githubusercontent.com/54028026/81947713-d5a7c400-963b-11ea-8c73-206b247f1940.PNG
+
