@@ -14,3 +14,4 @@
 -(5). login (using sqlit3 & excel file)
 
 
+![슬라이드1](https://user-images.githubusercontent.com/54028026/81947909-11428e00-963c-11ea-9535-266ef9177efa.PNG)
