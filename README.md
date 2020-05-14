@@ -1,5 +1,7 @@
 # python-toy-Project in Calculation programming class 
 
+[HR management system]
+
 1. data-set: IBM HR data-set  
 - reference - https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset 
 
