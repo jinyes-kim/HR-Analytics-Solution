@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 import time
 import user
 import employee
@@ -58,10 +56,12 @@ while True:
         while True:
             identity.print_identity()
             view.menu_main(identity.power)
+            view.time_now()
             try:
                 n = int(input("\n=> "))
             except:
                 print("잘못된 명령어입니다.")
+                continue
             if n == 0:
                 break
 
@@ -70,6 +70,7 @@ while True:
                 view.clear()
                 while True:
                     view.menu_organize()
+                    view.time_now()
                     try:
                         n = int(input("\n=> "))
                     except:
@@ -102,6 +103,7 @@ while True:
                 view.clear()
                 while True:
                     view.menu_search_employee()
+                    view.time_now()
                     try:
                         print("메뉴를 입력하세요.")
                         n = int(input("\n=> "))
@@ -110,6 +112,7 @@ while True:
                         continue
 
                     if n == 0:
+                        view.clear()
                         break
                     elif n == 1:
                         employee.print_column(identity.power)
@@ -131,11 +134,13 @@ while True:
                     if identity.power == 1:
                         view.clear()
                         view.menu_statistic()
+                        view.time_now()
                         try:
                             n = int(input("\n=> "))
                         except:
                             print("잘못된 명령어입니다.")
                         if n == 0:
+                            view.clear()
                             break
                         elif n == 1:
                             print("전체 요약 통계")
@@ -153,11 +158,13 @@ while True:
                     if identity.power == 1:
                         view.clear()
                         view.menu_management()
+                        view.time_now()
                         try:
                             n = int(input("\n=> "))
                         except:
                             print("잘못된 명령어입니다.")
                         if n == 0:
+                            view.clear()
                             break
                         elif n == 1:
                             pass
