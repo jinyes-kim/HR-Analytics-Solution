@@ -1,10 +1,8 @@
-# 인컴 대비 레이트가 높은 직원들을 일정 비율로 출력하기
-# 이탈 직원들의 인컴과 레이트 비율을 계산하고 그 비율을 기준치로 삼아서
-# 아직 이탈하지 않은 직원들 중에서 이탈 직원과 그 rate/ income 수치가 높으면
-# 이탈 위험직군으로 분류하는 알고리즘
+try:
+    import matplotlib.pyplot as plt
+except ImportError as err:
+    print("라이브러리를 설치해주세요. {}".format(err))
 
-
-import matplotlib.pyplot as plt
 
 """
 1. 각각 속성별 통계 - 남녀 비율, 이탈 비율, 평균 수입, 평균 성과
@@ -14,6 +12,7 @@ import matplotlib.pyplot as plt
 """
 
 
+# functions for data-structure
 def dict_to_category(data_dict):
     res = []
     for a in data_dict:
@@ -36,6 +35,7 @@ def sum_dict(data_dict, data):
         data_dict[data] = 0
 
 
+# functions for statistics
 def statistic(data, part=False):
     # data is employee instance
 
@@ -46,7 +46,7 @@ def statistic(data, part=False):
     depart_dict = {}
     role_dict = {}
     marry_dict = {}
-    sum_income= 0
+    sum_income = 0
     sum_rate = 0
 
     if not part:
@@ -81,7 +81,6 @@ def statistic(data, part=False):
     gender_data = dict_to_list(gender_dict)
     gender_category = dict_to_category(gender_dict)
     plt.pie(gender_data, labels=gender_category, autopct="%.1f%%")
-    
+
     # 위 코드 기반으로 서브플롯 그려서 각 항몽에 대한 파이 파트 출력
     plt.show()
-
