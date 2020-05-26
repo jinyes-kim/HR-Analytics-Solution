@@ -3,7 +3,7 @@ import employee
 
 def load_file():
     data = []
-    with open('./data/data.csv', 'r', encoding='UTF-8') as file:
+    with open('./data/data.csv', 'r') as file:
         for idx, line in enumerate(file):
             if idx == 0:
                 continue
