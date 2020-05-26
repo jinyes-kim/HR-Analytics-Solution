@@ -24,9 +24,6 @@ except Exception as err:
 view.load()
 time.sleep(1)
 view.clear()
-view.init()
-buffer = input()
-
 # main
 ban = 0
 while True:
@@ -60,7 +57,8 @@ while True:
             try:
                 n = int(input("\n=> "))
             except:
-                print("잘못된 명령어입니다.")
+                view.clear()
+                view.warning()
                 continue
             if n == 0:
                 break
@@ -74,7 +72,8 @@ while True:
                     try:
                         n = int(input("\n=> "))
                     except:
-                        print("잘못된 명령어입니다.")
+                        view.clear()
+                        view.warning()
                         continue
                     if n == 0:
                         view.clear()
@@ -95,7 +94,8 @@ while True:
                             if search.search_organize(a, 'Sales'):
                                 a.print_HR(identity.power)
                     else:
-                        print("잘못된 명령어입니다.")
+                        view.clear()
+                        view.warning()
                         continue
 
             # 직원 조회
@@ -108,7 +108,8 @@ while True:
                         print("메뉴를 입력하세요.")
                         n = int(input("\n=> "))
                     except:
-                        print("잘못된 명령어입니다.")
+                        view.clear()
+                        view.warning()
                         continue
 
                     if n == 0:
@@ -121,38 +122,84 @@ while True:
                     elif n == 2:
                         print("검색할 키워드를 입력해주세요.")
                         kwd = input("\n=>")
+                        kwd = kwd.split(" ")
                         for a in data:
-                            if search.search_keyword(a, kwd):
+                            if search.search_multi(a, kwd):
                                 a.print_HR(identity.power)
                     else:
-                        print("잘못된 명령어입니다.")
+                        view.clear()
+                        view.warning()
                         continue
 
             # 직원 통계
             elif n == 3:
                 while True:
+                    tmp = True
                     if identity.power == 1:
-                        view.clear()
+                        #view.clear()    # 메뉴 유추 못하게 안에서 돌게 한다.
                         view.menu_statistic()
                         view.time_now()
                         try:
                             n = int(input("\n=> "))
                         except:
-                            print("잘못된 명령어입니다.")
+                            view.clear()
+                            view.warning()
+                            continue
                         if n == 0:
                             view.clear()
                             break
                         elif n == 1:
                             print("전체 요약 통계")
-                            statistic.statistic(data)
-                            pass
+                            df = statistic.summary_data(data)
+                        elif n == 2:
+                            print("평균 나이")
+                            statistic.numeric_graph(data, 'Age')
+                            view.clear()
+                        elif n == 3:
+                            print("성별 비율")
+                            statistic.cate_graph(data, 'Gender')
+                            view.clear()
+                        elif n == 4:
+                            print("이탈 비율")
+                            statistic.cate_graph(data, 'Attrition')
+                            view.clear()
+                        elif n == 5:
+                            print("부서 비율")
+                            statistic.cate_graph(data, 'Department')
+                            view.clear()
+                        elif n == 6:
+                            print("직무 비율")
+                            statistic.cate_graph(data, 'JobRole')
+                            view.clear()
+                        elif n == 7:
+                            print("결혼 비율")
+                            statistic.cate_graph(data, 'MaritalStatus')
+                            view.clear()
+                        elif n == 8:
+                            print("평균 급여")
+                            statistic.numeric_graph(data, 'MonthlyIncome')
+                            view.clear()
+                        elif n == 9:
+                            print("평균 성과")
+                            statistic.numeric_graph(data, 'MonthlyRate')
+                            view.clear()
+                        elif n == 10:
+                            print("야근 비율")
+                            statistic.cate_graph(data, 'OverTime')
+                            view.clear()
+                        elif n == 11:
+                            print("잡 레벨")
+                            statistic.cate_graph(data, 'JobLevel')
+                            view.clear()
                         else:
-                            print("잘못된 명령어입니다.")
+                            view.clear()
+                            view.warning()
+                            continue
                     else:
-                        print("잘못된 명령어입니다.")
+                        view.clear()
                         break
 
-            # 인사 관리
+            # 인사 관리 or 랭크 + 이탈 예측
             elif n == 4:
                 while True:
                     if identity.power == 1:
@@ -162,17 +209,22 @@ while True:
                         try:
                             n = int(input("\n=> "))
                         except:
-                            print("잘못된 명령어입니다.")
+                            view.clear()
+                            view.warning()
+                            continue
                         if n == 0:
                             view.clear()
                             break
                         elif n == 1:
                             pass
                         else:
-                            print("잘못된 명령어입니다.")
+                            view.clear()
+                            view.warning()
                     else:
-                        print("잘못된 명령어입니다.")
+                        view.clear()
+                        view.warning()
                         break
-
             else:
-                print("잘못된 명령어입니다.")
+                view.clear()
+                view.warning()
+                continue
