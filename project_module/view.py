@@ -6,13 +6,6 @@ def clear():
         print()
 
 
-def init():
-    print("┌────────────────────────────────────────┐ ")
-    print("│  Ready to Start                        │ ")
-    print("│                    Enter Any key       │ ")
-    print("└────────────────────────────────────────┘ ")
-
-
 def load():
     print("┌────────────────────────────────────────┐ ")
     print("│           Data Loading...              │ ")
@@ -32,14 +25,22 @@ def login_fail():
     print("\n 다시 시도 하시려면 아무 키나 입력해주세요.  ")
 
 
+def warning():
+    print("┌────────────────────────────────────────┐ ")
+    print("│     △ 실행할 수 없는 명령어입니다.    │ ")         # 프롬프트 창에서 이 라인이 뷰 안 깨짐 참고용
+    print("└────────────────────────────────────────┘ ")
+
+
 def login_success(id):
     print(" ┌──── ")
     print("\t{}님 환영합니다.\n\t접속 시각: {}".format(id, datetime.datetime.now().strftime('%Y-%m-%d %H:%M')))
     print(" ───────────────────────────────── ")
     print("\n\n")
 
+
 def time_now():
     print("                                     {}".format(datetime.datetime.now().strftime('%H:%M')))
+
 
 def menu_main(admin):
     if admin == 1:
@@ -50,7 +51,7 @@ def menu_main(admin):
         print("│   (1) 조직도")
         print("│   (2) 직원 조회")
         print("│   (3) 직원 통계")
-        print("│   (4) 인사 관리")
+        print("│   (4) 이탈 예측")
         print("│   (0) 종료")
         print("└───────────────────────────────────────── ")
     else:
@@ -93,10 +94,16 @@ def menu_statistic():
     print("└────────────────────────────────────────┘ ")
     print("┌─ ")
     print("│   (1) 전체 요약 정보")
-    print("│   (2) 부서별 요약 정보")
-    print("│   (3) 임금 상위 30인")
-    print("│   (4) 성과 상위 30인")
-    print("│   (5) 이탈 위험 직원")
+    print("│   (2) 나이")
+    print("│   (3) 성별")
+    print("│   (4) 퇴직")
+    print("│   (5) 부서")
+    print("│   (6) 직무")
+    print("│   (7) 혼인")
+    print("│   (8) 급여")
+    print("│   (9) 성과")
+    print("│   (10) 야근")
+    print("│   (11) 잡 레벨")
     print("│   (0) 뒤로가기")
     print("└───────────────────────────────────────── ")
 
