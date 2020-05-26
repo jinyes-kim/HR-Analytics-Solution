@@ -5,7 +5,7 @@ def connect_db():
     con = sqlite3.connect("C:/calcul/data/user.db")
     sqlite3.Connection
     cursor = con.cursor()
-    cursor.execute("SELECT id, pwd, power FROM users")
+    cursor.execute("SELECT * FROM users")
     db = tmp = cursor.fetchall()
     user_dict = {}
     for a in tmp:
