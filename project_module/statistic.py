@@ -1,3 +1,5 @@
+import math
+
 try:
     import pandas as pd
 except ImportError as err:
@@ -15,6 +17,16 @@ def dict_to_category(data_dict):
         if a not in res:
             res.append(a)
     return res
+
+
+def list_to_dict(data_list):
+    data_dict = {}
+    for a in data_list:
+        if a in data_dict:
+            data_dict[a] += 1
+        else:
+            data_dict[a] = 0
+    return data_dict
 
 
 # 딕셔너리 키들의 분포 비율 계산
@@ -42,16 +54,6 @@ def make_df(data):
         tmp.append(a.total)
     df = pd.DataFrame(tmp, columns=label)
     return df
-
-
-def list_to_dict(data_list):
-    data_dict = {}
-    for a in data_list:
-        if a in data_dict:
-            data_dict[a] += 1
-        else:
-            data_dict[a] = 0
-    return data_dict
 
 
 def cate_graph(data, kwd):
@@ -101,3 +103,40 @@ def summary_data(data):
             print("[요약: {}]".format(kwd))
             print_dict(data_dict)
             print()
+
+
+def compare_graph(data):
+    df = make_df(data)
+    print(df)
+    compare_col = []
+    for col in df.columns:
+        if col == "EmployeeNumber" or col == "Attrition":
+            continue
+        else:
+            compare_col.append(col)
+
+    # 통계 에디터가 아니라서 해당 전처리가 필요하다.
+    tmp = []
+    for a in df["MonthlyIncome"]:
+        tmp.append((int(a) / 1000) * 1000)
+    df["MonthlyIncome"] = tmp
+
+    tmp = []
+    for a in df["MonthlyRate"]:
+        tmp.append((int(a) / 1000) * 1000)
+    df["MonthlyRate"] = tmp
+
+    # density histogram
+    plt.figure(figsize=(10, 10))
+    for i, column in enumerate(compare_col, 1):
+        if column == "EmployeeNumber" or column == "Attrition":
+            continue
+        plt.subplot(3, 3, i)
+        df[df["Attrition"] == 'No'][column].hist(
+            bins=20, color='green', label='Attrition = NO', alpha=0.5, density=True)
+        df[df["Attrition"] == 'Yes'][column].hist(
+            bins=20, color='red', label='Attrition = YES', alpha=0.5, density=True)
+        plt.legend()
+        plt.xlabel(column)
+    plt.tight_layout()
+    plt.show()
