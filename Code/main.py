@@ -7,7 +7,12 @@ from custom_module import view
 from custom_module import login
 from custom_module import load
 
+"""
+남은 일
 
+summary 함수 레이 아웃 수정
+이탈 위험 모델 적용
+"""
 # DB & data load
 try:
     db = login.connect_db()
@@ -16,14 +21,16 @@ except Exception as err:
 
 try:
     data = load.load_file()
+    att_data = load.load_file(att=True)
+    not_att_data = load.load_file(not_att=True)
 except Exception as err:
     print("ERROR: {}".format(err))
-
 
 # login effect
 view.load()
 time.sleep(1)
 view.clear()
+
 # main
 ban = 0
 while True:
@@ -199,12 +206,43 @@ while True:
                         view.clear()
                         break
 
-            # 인사 관리 or 랭크 + 이탈 예측
+            # 비교 분석
             elif n == 4:
                 while True:
                     if identity.power == 1:
                         view.clear()
-                        view.menu_management()
+                        view.menu_compare()
+                        view.time_now()
+                        try:
+                            n = int(input("\n=> "))
+                        except:
+                            view.clear()
+                            view.warning()
+                            continue
+                        if n == 0:
+                            view.clear()
+                            break
+                        elif n == 1:
+                            print("[이탈 직원]")
+                            statistic.summary_data(att_data)
+                            print("[재직 직원]")
+                            statistic.summary_data(not_att_data)
+
+                        elif n == 2:
+                            statistic.compare_graph(data)
+                            view.clear()
+                        else:
+                            view.clear()
+                            view.warning()
+                    else:
+                        view.clear()
+                        view.warning()
+                        break
+            elif n == 5:
+                while True:
+                    if identity.power == 1:
+                        view.clear()
+                        view.menu_predict()
                         view.time_now()
                         try:
                             n = int(input("\n=> "))
