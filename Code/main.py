@@ -87,16 +87,19 @@ while True:
                         break
                     elif n == 1:
                         print("Department: Human Resources")
+                        employee.print_column(identity.power)
                         for a in data:
                             if search.search_organize(a, 'Human Resources'):
                                 a.print_HR(identity.power)
                     elif n == 2:
                         print("Department: Research & Development")
+                        employee.print_column(identity.power)
                         for a in data:
                             if search.search_organize(a, 'Research & Development'):
                                 a.print_HR(identity.power)
                     elif n == 3:
                         print("Department: Sales")
+                        employee.print_column(identity.power)
                         for a in data:
                             if search.search_organize(a, 'Sales'):
                                 a.print_HR(identity.power)
@@ -130,6 +133,7 @@ while True:
                         print("검색할 키워드를 입력해주세요.")
                         kwd = input("\n=>")
                         kwd = kwd.split(" ")
+                        employee.print_column(identity.power)
                         for a in data:
                             if search.search_multi(a, kwd):
                                 a.print_HR(identity.power)
