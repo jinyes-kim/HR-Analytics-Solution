@@ -7,15 +7,18 @@ def search_organize(employee, keyword):
 
 def search_keyword(employee, keyword):
     temp = employee.total
+    keyword = keyword.lower()
     if keyword.isalpha():
         for kwd in temp:
             kwd = kwd.lower()
             if kwd == 'male' or kwd == 'female':
                 if kwd == keyword:
                     return True
+            elif keyword == 'yes' or keyword == 'no':
+                if kwd == keyword:
+                    return True
             elif keyword in kwd:
                 return True
-
     else:
         keyword = int(keyword)
 
@@ -30,7 +33,7 @@ def search_keyword(employee, keyword):
     return False
 
 
-def multi_search(employee, word_list):
+def search_multi(employee, word_list):
     res = []
     for word in word_list:
         res.append(search_keyword(employee, word))
