@@ -231,7 +231,7 @@ while True:
                             statistic.summary_data(att_data)
                             print("[재직 직원]")
                             statistic.summary_data(not_att_data)
-
+                            dummy = input()
                         elif n == 2:
                             statistic.compare_graph(data)
                             view.clear()
