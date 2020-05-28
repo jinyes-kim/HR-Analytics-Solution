@@ -36,5 +36,6 @@ def search_keyword(employee, keyword):
 def search_multi(employee, word_list):
     res = []
     for word in word_list:
-        res.append(search_keyword(employee, word))
+        if word.isalnum():
+            res.append(search_keyword(employee, word))
     return all(res)
