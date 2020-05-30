@@ -160,8 +160,10 @@ while True:
                             view.clear()
                             break
                         elif n == 1:
-                            print("전체 요약 통계")
+                            print("[전체 데이터 - 기초 통계 분석] ")
                             df = statistic.summary_data(data)
+                            view.buffer_dummy()
+                            buffer = input()
                         elif n == 2:
                             print("평균 나이")
                             statistic.numeric_graph(data, 'Age')
@@ -227,11 +229,12 @@ while True:
                             view.clear()
                             break
                         elif n == 1:
-                            print("[이탈 직원]")
+                            print("[퇴직 직원 - 기초 통계]")
                             statistic.summary_data(att_data)
-                            print("[재직 직원]")
+                            print("[재직 직원 - 기초 통계]")
                             statistic.summary_data(not_att_data)
-                            dummy = input()
+                            view.buffer_dummy()
+                            buffer = input()
                         elif n == 2:
                             statistic.compare_graph(data)
                             view.clear()
@@ -258,7 +261,12 @@ while True:
                             view.clear()
                             break
                         elif n == 1:
-                            pass
+                            employee.print_column(identity.power)
+                            for a in not_att_data:
+                                if statistic.predict_att(a):
+                                    a.print_HR(identity.power)
+                            view.buffer_dummy()
+                            buffer = input()
                         else:
                             view.clear()
                             view.warning()
