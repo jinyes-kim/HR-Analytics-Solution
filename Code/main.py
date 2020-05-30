@@ -7,12 +7,7 @@ from custom_module import view
 from custom_module import login
 from custom_module import load
 
-"""
-남은 일
 
-summary 함수 레이 아웃 수정
-이탈 위험 모델 적용
-"""
 # DB & data load
 try:
     db = login.connect_db()
@@ -26,10 +21,12 @@ try:
 except Exception as err:
     print("ERROR: {}".format(err))
 
+   
 # login effect
 view.load()
 time.sleep(1)
 view.clear()
+
 
 # main
 ban = 0
