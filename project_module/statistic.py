@@ -84,7 +84,7 @@ def numeric_graph(data, kwd):
 
 
 def summary_data(data):
-    # 출력 모양 이쁘게 변환, 평균 사분위수 계산
+    pd.options.display.float_format = '{:.2f}'.format
     df = make_df(data)
     for kwd in df.columns:
         if kwd == 'EmployeeNumber':
@@ -92,20 +92,19 @@ def summary_data(data):
         if kwd == "Age" or kwd == 'MonthlyIncome' or kwd == 'MonthlyRate':
             tmp = df[kwd]
             tmp = list(map(int, tmp))
-            avg = sum(tmp) / len(tmp)
-            print("[요약: {}]".format(kwd))
-            print("{}: {:.2f}\n\n".format(kwd, avg))
+            tmp = pd.Series(tmp)
+            print("[{}]".format(kwd))
+            print(tmp.describe(), end='\n\n')
         else:
             tmp = df[kwd]
             data_dict = list_to_dict(tmp)
-            print("[요약: {}]".format(kwd))
+            print("[{}]".format(kwd))
             print_dict(data_dict)
             print()
 
 
 def compare_graph(data):
     df = make_df(data)
-    print(df)
     compare_col = []
     for col in df.columns:
         if col == "EmployeeNumber" or col == "Attrition":
@@ -138,3 +137,9 @@ def compare_graph(data):
         plt.xlabel(column)
     plt.tight_layout()
     plt.show()
+
+
+def predict_att(employee):
+    if employee.overTime == 'yes' and employee.marital_status == 'Single' and employee.job_level == '1':
+        return True
+    return False
