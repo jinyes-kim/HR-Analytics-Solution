@@ -8,16 +8,23 @@ def search_organize(employee, keyword):
 def search_keyword(employee, keyword):
     temp = employee.total
     keyword = keyword.lower()
+
+    # main kwd filtering
+    if keyword == 'overtime':
+        if employee.overTime == 'yes':
+            return True
+    elif keyword == 'male' or keyword == 'female':
+        if employee.gender == keyword:
+            return True
+    elif keyword == 'yes' or keyword == 'no':
+        if employee.attrition == keyword:
+            return True
+
+    # else
     if keyword.isalpha():
         for kwd in temp:
             kwd = kwd.lower()
-            if kwd == 'male' or kwd == 'female':
-                if kwd == keyword:
-                    return True
-            elif keyword == 'yes' or keyword == 'no':
-                if kwd == keyword:
-                    return True
-            elif keyword in kwd:
+            if keyword in kwd:
                 return True
     else:
         keyword = int(keyword)
