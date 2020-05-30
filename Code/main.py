@@ -7,7 +7,6 @@ from custom_module import view
 from custom_module import login
 from custom_module import load
 
-
 # DB & data load
 try:
     db = login.connect_db()
@@ -21,12 +20,10 @@ try:
 except Exception as err:
     print("ERROR: {}".format(err))
 
-   
 # login effect
 view.load()
 time.sleep(1)
 view.clear()
-
 
 # main
 ban = 0
@@ -131,9 +128,13 @@ while True:
                         kwd = input("\n=>")
                         kwd = kwd.split(" ")
                         employee.print_column(identity.power)
+                        dummy = True
                         for a in data:
                             if search.search_multi(a, kwd):
                                 a.print_HR(identity.power)
+                                dummy = False
+                        if dummy:
+                            view.data_not_exist()
                     else:
                         view.clear()
                         view.warning()
