@@ -6,6 +6,10 @@ def clear():
         print()
 
 
+def buffer_dummy():
+    print("\n\n 계속 하시려면 아무 키나 입력해주세요.  ")
+
+
 def load():
     print("┌────────────────────────────────────────┐ ")
     print("│           Data Loading...              │ ")
