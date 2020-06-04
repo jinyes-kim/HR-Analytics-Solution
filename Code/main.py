@@ -6,6 +6,7 @@ from custom_module import statistic
 from custom_module import view
 from custom_module import login
 from custom_module import load
+import matplotlib.pyplot as plt
 
 # DB & data load
 try:
@@ -17,6 +18,7 @@ try:
     data = load.load_file()
     att_data = load.load_file(att=True)
     not_att_data = load.load_file(not_att=True)
+    data_label = [att_data, not_att_data]
 except Exception as err:
     print("ERROR: {}".format(err))
 
@@ -166,42 +168,52 @@ while True:
                         elif n == 2:
                             print("평균 나이")
                             statistic.numeric_graph(data, 'Age')
+                            plt.show()
                             view.clear()
                         elif n == 3:
                             print("성별 비율")
                             statistic.cate_graph(data, 'Gender')
+                            plt.show()
                             view.clear()
                         elif n == 4:
                             print("이탈 비율")
                             statistic.cate_graph(data, 'Attrition')
+                            plt.show()
                             view.clear()
                         elif n == 5:
                             print("부서 비율")
                             statistic.cate_graph(data, 'Department')
+                            plt.show()
                             view.clear()
                         elif n == 6:
                             print("직무 비율")
                             statistic.cate_graph(data, 'JobRole')
+                            plt.show()
                             view.clear()
                         elif n == 7:
                             print("결혼 비율")
                             statistic.cate_graph(data, 'MaritalStatus')
+                            plt.show()
                             view.clear()
                         elif n == 8:
                             print("평균 급여")
                             statistic.numeric_graph(data, 'MonthlyIncome')
+                            plt.show()
                             view.clear()
                         elif n == 9:
                             print("평균 성과")
                             statistic.numeric_graph(data, 'MonthlyRate')
+                            plt.show()
                             view.clear()
                         elif n == 10:
                             print("야근 비율")
                             statistic.cate_graph(data, 'OverTime')
+                            plt.show()
                             view.clear()
                         elif n == 11:
                             print("잡 레벨")
                             statistic.cate_graph(data, 'JobLevel')
+                            plt.show()
                             view.clear()
                         else:
                             view.clear()
@@ -236,6 +248,56 @@ while True:
                             buffer = input()
                         elif n == 2:
                             statistic.compare_graph(data)
+                            view.clear()
+                        elif n == 3:
+                            print("평균 나이")
+                            statistic.multi_graph('Age', data_label, cate=False)
+                            plt.show()
+                            view.clear()
+                        elif n == 4:
+                            print("성별 비율")
+                            statistic.multi_graph('Gender', data_label)
+                            plt.show()
+                            view.clear()
+                        elif n == 5:
+                            print("이탈 비율")
+                            statistic.multi_graph('Attrition', data_label)
+                            plt.show()
+                            view.clear()
+                        elif n == 6:
+                            print("부서 비율")
+                            statistic.multi_graph('Department', data_label)
+                            plt.show()
+                            view.clear()
+                        elif n == 7:
+                            print("직무 비율")
+                            statistic.multi_graph('JobRole', data_label)
+                            plt.show()
+                            view.clear()
+                        elif n == 8:
+                            print("결혼 비율")
+                            statistic.multi_graph('MaritalStatus', data_label)
+                            plt.show()
+                            view.clear()
+                        elif n == 9:
+                            print("평균 급여")
+                            statistic.multi_graph('MonthlyIncome', data_label, cate=False)
+                            plt.show()
+                            view.clear()
+                        elif n == 10:
+                            print("평균 성과")
+                            statistic.multi_graph('MonthlyRate', data_label, cate=False)
+                            plt.show()
+                            view.clear()
+                        elif n == 11:
+                            print("야근 비율")
+                            statistic.multi_graph('OverTime', data_label)
+                            plt.show()
+                            view.clear()
+                        elif n == 12:
+                            print("잡 레벨")
+                            statistic.multi_graph('JobLevel', data_label)
+                            plt.show()
                             view.clear()
                         else:
                             view.clear()
