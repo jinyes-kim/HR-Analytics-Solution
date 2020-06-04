@@ -1,4 +1,9 @@
 try:
+    import numpy as np
+except ImportError as err:
+    print("라이브러리를 설치해주세요. {}".format(err))
+
+try:
     import pandas as pd
 except ImportError as err:
     print("라이브러리를 설치해주세요. {}".format(err))
@@ -7,6 +12,14 @@ try:
     import matplotlib.pyplot as plt
 except ImportError as err:
     print("라이브러리를 설치해주세요. {}".format(err))
+
+try:
+    import seaborn as sns
+    sns.set()
+    colors = sns.color_palette("pastel")
+except ImportError as err:
+    print("라이브러리를 설치해주세요. {}".format(err))
+    print("필수 라이브러리: scipy, statsmodels")
 
 
 def dict_to_category(data_dict):
@@ -60,8 +73,17 @@ def cate_graph(data, kwd):
     data_dict = list_to_dict(tmp)
     print_dict(data_dict)
     col = dict_to_category(data_dict)
-    plt.pie(cal_ratio(data_dict), labels=col, autopct="%.1f%%")
+
+    # pie chart
+    plt.pie(cal_ratio(data_dict), labels=col, autopct="%.1f%%",
+            startangle=90, pctdistance=0.85, colors=colors)
     plt.title(kwd)
+
+    # draw circle
+    centre_circle = plt.Circle((0, 0), 0.70, fc='white')
+    fig = plt.gcf()
+    fig.gca().add_artist(centre_circle)
+    plt.tight_layout()
     plt.show()
 
 
@@ -71,15 +93,13 @@ def numeric_graph(data, kwd):
     tmp = list(map(int, tmp))
     avg = sum(tmp) / len(tmp)
     print("평균 {}: {:.2f}".format(kwd, avg))
-
     binn = 0
     if kwd == 'Age':
         binn = 10
     else:
         binn = 100
-    plt.hist(tmp, label=kwd, bins=binn, )
+    sns.distplot(tmp, kde=True);
     plt.title(kwd)
-    plt.tick_params(axis='both', which='both', direction='in', pad=8, top=True, right=True)
     plt.show()
 
 
