@@ -84,7 +84,6 @@ def cate_graph(data, kwd):
     fig = plt.gcf()
     fig.gca().add_artist(centre_circle)
     plt.tight_layout()
-    plt.show()
 
 
 def numeric_graph(data, kwd):
@@ -100,7 +99,6 @@ def numeric_graph(data, kwd):
         binn = 100
     sns.distplot(tmp, kde=True);
     plt.title(kwd)
-    plt.show()
 
 
 def summary_data(data):
@@ -157,6 +155,26 @@ def compare_graph(data):
         plt.xlabel(column)
     plt.tight_layout()
     plt.show()
+
+
+def multi_graph(kwd, data_label, cate=True):
+    #data_label = [att_data, not_att_data]
+    if cate:
+        att_label = ['Attrition Yes', 'Attrition No']
+        plt.subplot(1, 2, 1)
+        cate_graph(data_label[0], kwd)
+        plt.title(att_label[0] + ' - ' + kwd)
+        plt.subplot(1, 2, 2)
+        cate_graph(data_label[1], kwd)
+        plt.title(att_label[1] + ' - ' + kwd)
+    else:
+        att_label = ['Attrition Yes', 'Attrition No']
+        plt.subplot(1, 2, 1)
+        numeric_graph(data_label[0], kwd)
+        plt.title(att_label[0] + ' - ' + kwd)
+        plt.subplot(1, 2, 2)
+        numeric_graph(data_label[1], kwd)
+        plt.title(att_label[1] + ' - ' + kwd)
 
 
 def predict_att(employee):
