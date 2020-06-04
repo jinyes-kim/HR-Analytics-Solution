@@ -62,6 +62,7 @@ while True:
                 view.warning()
                 continue
             if n == 0:
+                identity = None
                 break
 
             # 조직도
