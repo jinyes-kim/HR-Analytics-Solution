@@ -1,0 +1,1471 @@
+﻿Age,Attrition,Department,EmployeeNumber,Gender,JobLevel,JobRole,MaritalStatus,MonthlyIncome,MonthlyRate,OverTime
+41,Yes,Sales,1,Female,2,Sales Executive,Single,5993,19479,Yes
+49,No,Research & Development,2,Male,2,Research Scientist,Married,5130,24907,No
+37,Yes,Research & Development,4,Male,1,Laboratory Technician,Single,2090,2396,Yes
+33,No,Research & Development,5,Female,1,Research Scientist,Married,2909,23159,Yes
+27,No,Research & Development,7,Male,1,Laboratory Technician,Married,3468,16632,No
+32,No,Research & Development,8,Male,1,Laboratory Technician,Single,3068,11864,No
+59,No,Research & Development,10,Female,1,Laboratory Technician,Married,2670,9964,Yes
+30,No,Research & Development,11,Male,1,Laboratory Technician,Divorced,2693,13335,No
+38,No,Research & Development,12,Male,3,Manufacturing Director,Single,9526,8787,No
+36,No,Research & Development,13,Male,2,Healthcare Representative,Married,5237,16577,No
+35,No,Research & Development,14,Male,1,Laboratory Technician,Married,2426,16479,No
+29,No,Research & Development,15,Female,2,Laboratory Technician,Single,4193,12682,Yes
+31,No,Research & Development,16,Male,1,Research Scientist,Divorced,2911,15170,No
+34,No,Research & Development,18,Male,1,Laboratory Technician,Divorced,2661,8758,No
+28,Yes,Research & Development,19,Male,1,Laboratory Technician,Single,2028,12947,Yes
+29,No,Research & Development,20,Female,3,Manufacturing Director,Divorced,9980,10195,No
+32,No,Research & Development,21,Male,1,Research Scientist,Divorced,3298,15053,Yes
+22,No,Research & Development,22,Male,1,Laboratory Technician,Divorced,2935,7324,Yes
+53,No,Sales,23,Female,4,Manager,Married,15427,22021,No
+38,No,Research & Development,24,Male,1,Research Scientist,Single,3944,4306,Yes
+24,No,Research & Development,26,Female,2,Manufacturing Director,Divorced,4011,8232,No
+36,Yes,Sales,27,Male,1,Sales Representative,Single,3407,6986,No
+34,No,Research & Development,28,Female,3,Research Director,Single,11994,21293,No
+21,No,Research & Development,30,Male,1,Research Scientist,Single,1232,19281,No
+34,Yes,Research & Development,31,Male,1,Research Scientist,Single,2960,17102,No
+53,No,Research & Development,32,Female,5,Manager,Divorced,19094,10735,No
+32,Yes,Research & Development,33,Female,1,Research Scientist,Single,3919,4681,Yes
+42,No,Sales,35,Male,2,Sales Executive,Married,6825,21173,No
+44,No,Research & Development,36,Female,3,Healthcare Representative,Married,10248,2094,No
+46,No,Sales,38,Female,5,Manager,Single,18947,22822,No
+33,No,Research & Development,39,Male,1,Laboratory Technician,Single,2496,6670,No
+44,No,Research & Development,40,Male,2,Healthcare Representative,Married,6465,19121,Yes
+30,No,Research & Development,41,Male,1,Laboratory Technician,Single,2206,16117,No
+39,Yes,Sales,42,Male,2,Sales Representative,Married,2086,3335,No
+24,Yes,Research & Development,45,Male,1,Research Scientist,Married,2293,3020,Yes
+43,No,Research & Development,46,Female,1,Research Scientist,Divorced,2645,21923,No
+50,Yes,Sales,47,Male,1,Sales Representative,Married,2683,3810,Yes
+35,No,Sales,49,Female,1,Sales Representative,Married,2014,9687,No
+36,No,Research & Development,51,Female,1,Research Scientist,Married,3419,13072,Yes
+33,No,Sales,52,Female,2,Sales Executive,Married,5376,3193,No
+35,No,Research & Development,53,Male,1,Laboratory Technician,Divorced,1951,10910,No
+27,No,Research & Development,54,Female,1,Laboratory Technician,Divorced,2341,19715,No
+26,Yes,Research & Development,55,Male,1,Laboratory Technician,Single,2293,10558,No
+27,No,Sales,56,Male,3,Sales Executive,Single,8726,2975,No
+30,No,Research & Development,57,Female,2,Laboratory Technician,Single,4011,10781,No
+41,Yes,Research & Development,58,Female,5,Research Director,Married,19545,16280,No
+34,No,Sales,60,Male,2,Sales Executive,Single,4568,10034,No
+37,No,Research & Development,61,Male,1,Research Scientist,Married,3022,10227,No
+46,No,Sales,62,Male,2,Sales Executive,Single,5772,20445,Yes
+35,No,Research & Development,63,Male,1,Laboratory Technician,Married,2269,4892,No
+48,Yes,Research & Development,64,Male,3,Laboratory Technician,Single,5381,19294,Yes
+28,Yes,Research & Development,65,Male,1,Laboratory Technician,Single,3441,11179,Yes
+44,No,Sales,68,Female,2,Sales Executive,Divorced,5454,4009,Yes
+35,No,Research & Development,70,Male,3,Healthcare Representative,Married,9884,8302,Yes
+26,No,Sales,72,Female,2,Sales Executive,Married,4157,21436,Yes
+33,No,Research & Development,73,Female,3,Research Director,Single,13458,15146,Yes
+35,No,Sales,74,Male,3,Sales Executive,Married,9069,11031,No
+35,No,Research & Development,75,Female,1,Laboratory Technician,Married,4014,16002,Yes
+31,No,Research & Development,76,Male,2,Laboratory Technician,Divorced,5915,9528,No
+37,No,Research & Development,77,Male,2,Manufacturing Director,Divorced,5993,2689,No
+32,No,Research & Development,78,Male,2,Manufacturing Director,Married,6162,10877,Yes
+38,No,Research & Development,79,Female,2,Laboratory Technician,Single,2406,5456,No
+50,No,Research & Development,80,Female,5,Research Director,Divorced,18740,16701,Yes
+59,No,Sales,81,Female,3,Sales Executive,Single,7637,2354,No
+36,No,Research & Development,83,Female,3,Healthcare Representative,Divorced,10096,8202,No
+55,No,Research & Development,84,Female,4,Manager,Divorced,14756,19730,Yes
+36,No,Research & Development,85,Male,2,Manufacturing Director,Single,6499,22656,No
+45,No,Research & Development,86,Male,3,Research Scientist,Divorced,9724,18787,No
+35,No,Research & Development,88,Male,1,Research Scientist,Married,2194,5868,No
+36,Yes,Research & Development,90,Male,1,Research Scientist,Married,3388,21777,Yes
+59,No,Sales,91,Female,2,Sales Executive,Single,5473,24668,No
+29,No,Research & Development,94,Male,1,Research Scientist,Married,2703,4956,No
+31,No,Research & Development,95,Male,1,Research Scientist,Single,2501,18775,No
+32,No,Research & Development,96,Male,2,Research Scientist,Married,6220,7346,No
+36,No,Research & Development,97,Female,1,Laboratory Technician,Married,3038,22002,No
+31,No,Research & Development,98,Female,2,Manufacturing Director,Single,4424,20682,No
+35,No,Sales,100,Male,2,Sales Executive,Single,4312,23016,No
+45,No,Research & Development,101,Male,3,Research Director,Married,13245,15067,Yes
+37,No,Research & Development,102,Male,3,Research Director,Single,13664,25258,No
+46,No,Human Resources,103,Male,2,Human Resources,Divorced,5021,10425,Yes
+30,No,Research & Development,104,Male,2,Laboratory Technician,Married,5126,15998,Yes
+35,No,Research & Development,105,Male,1,Research Scientist,Single,2859,26278,No
+55,No,Sales,106,Male,3,Sales Executive,Married,10239,18092,No
+38,No,Research & Development,107,Female,2,Research Scientist,Divorced,5329,15717,Yes
+34,No,Research & Development,110,Male,2,Manufacturing Director,Married,4325,17736,No
+56,No,Research & Development,112,Male,3,Manufacturing Director,Single,7260,21698,No
+23,No,Sales,113,Male,1,Sales Representative,Divorced,2322,9518,No
+51,No,Research & Development,116,Male,1,Laboratory Technician,Married,2075,18725,No
+30,No,Research & Development,117,Male,2,Healthcare Representative,Married,4152,15830,No
+46,Yes,Sales,118,Male,3,Sales Executive,Single,9619,13596,No
+40,No,Research & Development,119,Male,4,Healthcare Representative,Married,13503,14115,No
+51,No,Sales,120,Male,2,Sales Executive,Single,5441,8423,Yes
+30,No,Sales,121,Female,2,Sales Executive,Divorced,5209,19760,Yes
+46,No,Research & Development,124,Male,3,Healthcare Representative,Married,10673,3142,Yes
+32,No,Sales,125,Male,2,Sales Executive,Single,5010,24301,No
+54,No,Research & Development,126,Female,3,Research Director,Married,13549,24001,No
+24,No,Sales,128,Female,2,Sales Executive,Married,4999,17519,No
+28,No,Sales,129,Male,2,Sales Executive,Married,4221,8863,No
+58,No,Sales,131,Male,4,Sales Executive,Single,13872,24409,No
+44,No,Research & Development,132,Male,2,Laboratory Technician,Married,2042,25043,No
+37,Yes,Human Resources,133,Male,1,Human Resources,Divorced,2073,23648,Yes
+32,No,Research & Development,134,Male,1,Research Scientist,Single,2956,15178,No
+20,Yes,Research & Development,137,Female,1,Laboratory Technician,Single,2926,19783,Yes
+34,No,Research & Development,138,Female,2,Research Scientist,Single,4809,12482,No
+37,No,Research & Development,139,Male,2,Healthcare Representative,Divorced,5163,15850,No
+59,No,Human Resources,140,Female,5,Manager,Married,18844,21922,No
+50,No,Research & Development,141,Female,5,Research Director,Married,18172,9755,Yes
+25,Yes,Sales,142,Male,2,Sales Executive,Single,5744,26959,Yes
+25,No,Research & Development,143,Male,1,Research Scientist,Married,2889,26897,No
+22,No,Research & Development,144,Female,1,Laboratory Technician,Single,2871,23785,No
+51,No,Research & Development,145,Female,3,Healthcare Representative,Single,7484,25796,No
+34,Yes,Research & Development,147,Male,2,Laboratory Technician,Single,6074,22887,Yes
+54,No,Human Resources,148,Female,4,Manager,Single,17328,13871,Yes
+24,No,Research & Development,150,Male,1,Laboratory Technician,Married,2774,13257,No
+34,No,Research & Development,151,Female,2,Research Scientist,Divorced,4505,15000,No
+37,No,Sales,152,Male,3,Sales Executive,Single,7428,14506,No
+34,No,Research & Development,153,Female,3,Manager,Single,11631,5615,No
+36,No,Sales,154,Female,3,Sales Executive,Married,9738,22952,No
+36,No,Research & Development,155,Female,1,Laboratory Technician,Divorced,2835,2561,No
+43,No,Sales,158,Male,4,Manager,Married,16959,19494,Yes
+30,No,Research & Development,159,Male,1,Research Scientist,Divorced,2613,22310,No
+33,No,Sales,160,Male,2,Sales Executive,Married,6146,15480,No
+56,Yes,Research & Development,161,Female,1,Research Scientist,Married,4963,4510,Yes
+51,No,Research & Development,162,Male,5,Research Director,Single,19537,6462,No
+31,Yes,Sales,163,Male,2,Sales Executive,Married,6172,20739,Yes
+26,No,Research & Development,164,Female,1,Research Scientist,Married,2368,23300,No
+58,Yes,Research & Development,165,Female,3,Healthcare Representative,Married,10312,3465,No
+19,Yes,Sales,167,Male,1,Sales Representative,Single,1675,26820,Yes
+22,No,Research & Development,169,Male,1,Laboratory Technician,Married,2523,19299,No
+49,No,Research & Development,170,Female,2,Manufacturing Director,Married,6567,5549,No
+43,No,Research & Development,171,Female,1,Research Scientist,Single,4739,16090,No
+50,No,Sales,174,Female,3,Sales Executive,Single,9208,6645,No
+31,Yes,Sales,175,Female,2,Sales Executive,Married,4559,24788,Yes
+41,No,Sales,176,Male,3,Sales Executive,Divorced,8189,21196,Yes
+26,No,Human Resources,177,Female,1,Human Resources,Married,2942,8916,No
+36,No,Research & Development,178,Male,2,Manufacturing Director,Divorced,4941,2819,No
+51,Yes,Research & Development,179,Male,3,Manufacturing Director,Single,10650,25150,No
+39,No,Sales,182,Female,2,Sales Executive,Married,5902,14590,No
+25,No,Sales,183,Male,2,Sales Executive,Married,8639,24835,No
+30,No,Human Resources,184,Male,2,Human Resources,Married,6347,13982,Yes
+32,Yes,Research & Development,190,Female,1,Laboratory Technician,Single,4200,10224,No
+45,No,Research & Development,192,Male,1,Research Scientist,Single,3452,9752,No
+38,No,Research & Development,193,Female,2,Research Scientist,Single,4317,2302,Yes
+30,No,Research & Development,194,Female,1,Research Scientist,Single,2632,23910,No
+32,No,Sales,195,Male,2,Sales Executive,Divorced,4668,22812,No
+30,No,Research & Development,197,Female,1,Research Scientist,Divorced,3204,10415,No
+30,No,Research & Development,198,Male,1,Laboratory Technician,Single,2720,11162,No
+41,No,Research & Development,199,Male,4,Manager,Divorced,17181,12888,No
+41,No,Research & Development,200,Male,1,Laboratory Technician,Married,2238,6961,No
+19,No,Research & Development,201,Female,1,Laboratory Technician,Single,1483,16102,No
+40,No,Research & Development,202,Female,2,Research Scientist,Divorced,5605,8504,No
+35,No,Sales,204,Male,3,Sales Executive,Married,7295,11439,No
+53,No,Sales,205,Male,2,Sales Representative,Married,2306,16047,Yes
+45,No,Research & Development,206,Male,2,Laboratory Technician,Divorced,2348,10901,No
+32,No,Sales,207,Female,3,Sales Executive,Single,8998,15589,No
+29,No,Research & Development,208,Male,2,Manufacturing Director,Married,4319,26283,No
+51,No,Research & Development,211,Male,2,Manufacturing Director,Married,6132,13983,No
+58,No,Research & Development,214,Female,1,Research Scientist,Married,3346,11873,Yes
+40,No,Sales,215,Male,3,Sales Executive,Married,10855,8552,No
+34,No,Sales,216,Female,1,Sales Representative,Married,2231,11314,No
+22,No,Research & Development,217,Male,1,Research Scientist,Married,2323,11992,No
+27,No,Research & Development,218,Male,1,Research Scientist,Divorced,2024,5970,No
+28,No,Research & Development,221,Male,1,Research Scientist,Married,2713,6672,No
+57,No,Research & Development,223,Male,3,Healthcare Representative,Divorced,9439,23402,Yes
+27,No,Research & Development,224,Male,1,Research Scientist,Divorced,2566,25326,Yes
+50,No,Research & Development,226,Female,5,Manager,Single,19926,17053,No
+41,No,Research & Development,227,Male,1,Research Scientist,Divorced,2451,4609,No
+30,No,Sales,228,Female,3,Sales Executive,Married,9419,8053,No
+38,No,Sales,230,Female,2,Sales Executive,Single,8686,12930,No
+32,No,Research & Development,231,Male,1,Research Scientist,Single,3038,12430,No
+27,No,Research & Development,233,Male,1,Research Scientist,Married,3058,13364,Yes
+19,Yes,Sales,235,Female,1,Sales Representative,Single,2325,20989,No
+36,No,Research & Development,238,Male,1,Laboratory Technician,Single,2088,15062,No
+30,No,Research & Development,239,Male,2,Laboratory Technician,Divorced,3072,11012,No
+45,No,Sales,240,Female,2,Sales Executive,Divorced,5006,6319,Yes
+56,No,Research & Development,241,Female,1,Research Scientist,Divorced,4257,13939,Yes
+33,No,Research & Development,242,Male,1,Research Scientist,Single,2500,10515,No
+19,Yes,Research & Development,243,Male,1,Laboratory Technician,Single,1102,9241,No
+46,No,Sales,244,Female,3,Sales Executive,Divorced,10453,2137,No
+38,No,Research & Development,245,Female,1,Laboratory Technician,Single,2288,6319,No
+31,No,Research & Development,246,Female,1,Research Scientist,Married,3929,6984,Yes
+34,No,Research & Development,247,Female,1,Research Scientist,Single,2311,5711,No
+41,Yes,Sales,248,Female,1,Sales Representative,Single,3140,21728,Yes
+50,No,Research & Development,249,Male,1,Laboratory Technician,Married,3690,3425,No
+53,No,Research & Development,250,Female,2,Manufacturing Director,Divorced,4450,26250,No
+33,No,Research & Development,252,Female,1,Research Scientist,Married,2756,4673,No
+40,No,Research & Development,253,Female,5,Manager,Married,19033,6499,No
+55,No,Research & Development,254,Male,5,Research Director,Single,18722,13339,No
+34,No,Research & Development,256,Male,2,Manufacturing Director,Married,9547,14074,No
+51,No,Research & Development,258,Female,4,Healthcare Representative,Single,13734,7192,No
+52,No,Research & Development,259,Male,5,Manager,Married,19999,5678,No
+27,No,Research & Development,260,Female,1,Research Scientist,Single,2279,11781,No
+35,Yes,Research & Development,261,Male,2,Manufacturing Director,Married,5916,15497,Yes
+43,No,Research & Development,262,Male,1,Research Scientist,Divorced,2089,5228,No
+45,No,Research & Development,264,Male,4,Manager,Married,16792,20462,No
+37,No,Research & Development,267,Male,1,Research Scientist,Married,3564,22977,Yes
+35,No,Research & Development,269,Female,2,Laboratory Technician,Single,4425,15986,No
+42,No,Research & Development,270,Female,2,Manufacturing Director,Divorced,5265,16439,No
+38,No,Research & Development,271,Male,2,Manufacturing Director,Married,6553,7259,No
+38,No,Research & Development,273,Male,2,Manufacturing Director,Married,6261,4185,No
+27,No,Research & Development,274,Male,2,Manufacturing Director,Married,4298,9679,No
+49,No,Research & Development,275,Male,2,Manufacturing Director,Divorced,6804,23793,Yes
+34,No,Research & Development,277,Male,1,Research Scientist,Divorced,3815,5972,Yes
+40,No,Research & Development,281,Male,2,Laboratory Technician,Married,2741,16523,Yes
+38,Yes,Research & Development,282,Male,2,Healthcare Representative,Married,6673,11354,Yes
+29,Yes,Sales,283,Female,3,Sales Executive,Married,7639,24525,No
+22,No,Research & Development,284,Male,1,Research Scientist,Divorced,2328,12392,Yes
+36,No,Research & Development,286,Female,1,Laboratory Technician,Single,2153,7703,No
+40,No,Research & Development,287,Male,2,Healthcare Representative,Married,4876,14242,No
+46,No,Research & Development,288,Male,3,Healthcare Representative,Divorced,9396,12368,No
+32,Yes,Sales,291,Male,3,Sales Executive,Married,10400,25812,No
+30,No,Research & Development,292,Male,3,Manufacturing Director,Single,8474,20925,No
+27,No,Sales,293,Female,2,Sales Executive,Single,9981,12916,No
+51,No,Research & Development,296,Male,3,Research Director,Married,12490,15736,No
+30,Yes,Research & Development,297,Female,1,Research Scientist,Single,2657,8556,Yes
+41,No,Sales,298,Female,3,Manager,Single,13591,14674,Yes
+30,Yes,Sales,299,Female,2,Sales Executive,Single,6696,22967,No
+29,Yes,Research & Development,300,Male,1,Research Scientist,Single,2058,19757,No
+45,No,Sales,302,Female,3,Sales Executive,Single,8865,16840,No
+54,No,Sales,303,Female,2,Sales Executive,Married,5940,17011,No
+36,No,Research & Development,304,Male,2,Laboratory Technician,Single,5914,9945,No
+33,No,Research & Development,305,Female,1,Research Scientist,Married,2622,13248,No
+37,No,Research & Development,306,Male,3,Research Director,Divorced,12185,10056,Yes
+38,No,Sales,307,Male,3,Sales Executive,Divorced,10609,9647,No
+31,No,Research & Development,308,Male,2,Manufacturing Director,Married,4345,4381,No
+59,No,Research & Development,309,Male,1,Research Scientist,Married,2177,8456,No
+37,No,Sales,311,Male,1,Sales Representative,Divorced,2793,2539,No
+29,No,Sales,312,Female,3,Sales Executive,Married,7918,6599,No
+35,No,Sales,314,Female,3,Sales Executive,Single,8789,9096,No
+29,Yes,Research & Development,315,Male,1,Research Scientist,Single,2389,14961,Yes
+52,No,Research & Development,316,Female,1,Laboratory Technician,Single,3212,3300,No
+42,No,Research & Development,319,Male,5,Manager,Married,19232,4933,No
+59,No,Human Resources,321,Male,1,Human Resources,Married,2267,25657,No
+50,No,Sales,323,Female,5,Manager,Divorced,19517,24118,No
+33,Yes,Research & Development,325,Male,1,Laboratory Technician,Married,2436,22149,Yes
+43,No,Sales,327,Female,4,Manager,Married,16064,7744,Yes
+33,Yes,Research & Development,328,Female,1,Laboratory Technician,Married,2707,21509,No
+52,No,Sales,329,Male,5,Manager,Single,19068,21030,Yes
+32,No,Sales,330,Female,1,Sales Representative,Married,3931,20990,No
+32,Yes,Research & Development,331,Male,1,Laboratory Technician,Single,3730,9571,Yes
+39,No,Research & Development,332,Female,1,Laboratory Technician,Divorced,2232,15417,No
+32,No,Sales,333,Male,2,Sales Executive,Married,4465,12069,No
+41,No,Research & Development,334,Male,2,Research Scientist,Divorced,3072,19877,No
+40,No,Research & Development,335,Male,2,Research Scientist,Divorced,3319,24447,No
+45,No,Research & Development,336,Male,5,Manager,Married,19202,15970,No
+31,No,Research & Development,337,Male,3,Research Director,Divorced,13675,13523,No
+33,No,Research & Development,338,Female,1,Research Scientist,Married,2911,14776,No
+34,No,Research & Development,339,Male,2,Manufacturing Director,Married,5957,23687,No
+37,No,Research & Development,340,Female,1,Research Scientist,Married,3920,18697,No
+45,No,Research & Development,341,Male,2,Manufacturing Director,Married,6434,5118,No
+37,Yes,Research & Development,342,Male,3,Manufacturing Director,Divorced,10048,22573,No
+39,No,Research & Development,343,Female,3,Healthcare Representative,Single,10938,6420,No
+29,No,Research & Development,346,Male,1,Research Scientist,Single,2340,22673,No
+42,No,Research & Development,347,Female,2,Research Scientist,Single,6545,23016,Yes
+29,No,Sales,349,Male,2,Sales Executive,Divorced,6931,10732,No
+25,No,Research & Development,350,Female,2,Manufacturing Director,Married,4898,7505,No
+42,No,Research & Development,351,Female,1,Laboratory Technician,Divorced,2593,8007,Yes
+40,No,Research & Development,352,Male,5,Research Director,Divorced,19436,5949,No
+51,No,Research & Development,353,Male,1,Research Scientist,Married,2723,23231,No
+31,Yes,Research & Development,355,Male,1,Laboratory Technician,Single,3479,11652,No
+32,No,Research & Development,359,Male,1,Laboratory Technician,Married,2794,26062,No
+38,No,Sales,361,Male,2,Sales Executive,Married,5249,19682,No
+32,No,Research & Development,362,Male,2,Laboratory Technician,Single,2176,19737,No
+46,No,Sales,363,Female,4,Manager,Married,16872,14977,Yes
+28,Yes,Research & Development,364,Male,1,Laboratory Technician,Single,3485,14935,No
+29,No,Sales,366,Male,2,Sales Executive,Married,6644,3687,No
+31,No,Research & Development,367,Male,2,Healthcare Representative,Married,5582,14408,No
+25,No,Research & Development,369,Male,2,Healthcare Representative,Divorced,4000,18384,No
+45,No,Research & Development,372,Male,4,Healthcare Representative,Married,13496,7501,Yes
+36,No,Research & Development,373,Male,1,Laboratory Technician,Married,3210,20251,No
+55,No,Research & Development,374,Male,5,Manager,Single,19045,18938,Yes
+47,Yes,Research & Development,376,Male,3,Manager,Married,11849,10268,Yes
+28,No,Research & Development,377,Male,1,Research Scientist,Married,2070,2613,No
+37,No,Sales,378,Male,2,Sales Executive,Married,6502,22825,No
+21,No,Research & Development,379,Male,1,Research Scientist,Single,3230,10531,No
+37,No,Research & Development,380,Female,3,Research Director,Divorced,13603,11677,Yes
+35,No,Research & Development,381,Female,3,Manager,Divorced,11996,19100,No
+38,No,Sales,382,Female,2,Sales Executive,Divorced,5605,19191,Yes
+26,No,Research & Development,384,Female,2,Manufacturing Director,Divorced,6397,26767,No
+50,No,Research & Development,385,Male,5,Research Director,Divorced,19144,15815,No
+53,No,Research & Development,386,Male,4,Research Director,Married,17584,21016,Yes
+42,No,Sales,387,Male,2,Sales Executive,Married,4907,24532,No
+29,No,Sales,388,Male,2,Sales Executive,Single,4554,20260,No
+55,No,Research & Development,389,Male,2,Laboratory Technician,Married,5415,15972,Yes
+26,No,Research & Development,390,Male,2,Healthcare Representative,Married,4741,22722,Yes
+37,No,Research & Development,391,Female,1,Research Scientist,Single,2115,15881,No
+44,Yes,Research & Development,392,Male,1,Laboratory Technician,Divorced,3161,19920,Yes
+38,No,Research & Development,393,Male,2,Healthcare Representative,Divorced,5745,18899,No
+26,Yes,Research & Development,394,Male,1,Laboratory Technician,Divorced,2373,14180,Yes
+28,No,Research & Development,395,Female,1,Research Scientist,Single,3310,4488,No
+49,No,Research & Development,396,Female,5,Research Director,Single,18665,25594,Yes
+36,No,Research & Development,397,Male,2,Research Scientist,Single,4485,26285,No
+31,No,Sales,399,Female,1,Sales Representative,Divorced,2789,3909,No
+26,Yes,Sales,401,Male,2,Sales Executive,Single,5828,8450,Yes
+37,No,Research & Development,403,Male,1,Research Scientist,Married,2326,11411,Yes
+42,No,Sales,404,Female,4,Sales Executive,Married,13525,14864,No
+18,Yes,Research & Development,405,Male,1,Laboratory Technician,Single,1420,25233,No
+35,No,Sales,406,Male,3,Sales Executive,Married,8020,5100,No
+36,No,Research & Development,407,Male,1,Laboratory Technician,Married,3688,7122,No
+51,No,Research & Development,408,Male,2,Manufacturing Director,Divorced,5482,16321,No
+41,No,Sales,410,Male,4,Manager,Single,16015,15896,No
+18,No,Sales,411,Female,1,Sales Representative,Single,1200,9724,No
+28,No,Research & Development,412,Male,2,Healthcare Representative,Single,5661,4824,No
+31,No,Sales,416,Male,2,Sales Executive,Married,6929,12241,No
+39,No,Research & Development,417,Male,3,Healthcare Representative,Divorced,9613,10942,No
+36,No,Research & Development,419,Female,2,Laboratory Technician,Married,5674,6927,No
+32,No,Sales,420,Male,2,Sales Executive,Married,5484,16985,No
+38,No,Research & Development,421,Female,3,Research Director,Married,12061,26707,No
+58,No,Research & Development,422,Male,2,Healthcare Representative,Divorced,5660,17056,Yes
+31,No,Research & Development,423,Male,1,Research Scientist,Married,4821,10077,Yes
+31,No,Human Resources,424,Male,2,Human Resources,Married,6410,17822,No
+45,No,Research & Development,425,Male,3,Laboratory Technician,Divorced,5210,20308,No
+31,No,Research & Development,426,Male,1,Research Scientist,Divorced,2695,7747,Yes
+33,No,Research & Development,428,Female,3,Manager,Married,11878,23364,No
+39,No,Research & Development,429,Male,4,Manager,Married,17068,5355,Yes
+43,No,Research & Development,430,Female,1,Laboratory Technician,Single,2455,10675,No
+49,No,Research & Development,431,Female,4,Healthcare Representative,Single,13964,17810,Yes
+52,Yes,Research & Development,433,Male,2,Research Scientist,Married,4941,17747,No
+27,No,Research & Development,434,Female,1,Research Scientist,Single,2478,20938,Yes
+32,No,Sales,436,Female,2,Sales Executive,Married,5228,24624,Yes
+27,No,Sales,437,Male,2,Sales Executive,Single,4478,5242,Yes
+31,No,Sales,438,Male,2,Sales Executive,Divorced,7547,7143,No
+32,No,Research & Development,439,Female,2,Research Scientist,Single,5055,10557,No
+28,Yes,Research & Development,440,Male,1,Research Scientist,Married,3464,24737,Yes
+30,No,Research & Development,441,Female,2,Research Scientist,Married,5775,11934,No
+31,No,Research & Development,442,Female,3,Manufacturing Director,Married,8943,14034,No
+39,No,Research & Development,444,Male,5,Manager,Married,19272,21141,No
+39,Yes,Sales,445,Female,2,Sales Executive,Married,5238,17778,Yes
+33,No,Sales,446,Male,2,Sales Executive,Single,4682,4317,No
+47,No,Research & Development,447,Male,5,Research Director,Married,18300,16375,No
+43,No,Research & Development,448,Female,2,Laboratory Technician,Divorced,5257,6227,No
+27,No,Sales,449,Male,2,Sales Executive,Married,6349,22107,Yes
+54,No,Research & Development,450,Female,2,Research Scientist,Single,4869,16885,No
+43,No,Research & Development,451,Female,3,Healthcare Representative,Married,9985,9262,No
+45,No,Research & Development,452,Male,2,Research Scientist,Married,3697,9278,No
+40,No,Sales,453,Male,2,Sales Executive,Married,7457,13273,Yes
+29,Yes,Research & Development,454,Male,1,Laboratory Technician,Married,2119,4759,Yes
+29,No,Research & Development,455,Male,1,Laboratory Technician,Single,3983,7621,No
+30,No,Sales,456,Female,2,Sales Executive,Divorced,6118,5431,No
+27,No,Sales,458,Female,2,Sales Executive,Married,6214,3415,No
+37,No,Research & Development,460,Male,2,Manufacturing Director,Divorced,6347,23177,No
+38,No,Research & Development,461,Male,3,Research Director,Divorced,11510,15682,Yes
+31,No,Research & Development,462,Female,3,Manufacturing Director,Single,7143,25713,Yes
+29,No,Sales,463,Female,2,Sales Executive,Divorced,8268,11866,Yes
+35,No,Research & Development,464,Male,3,Manufacturing Director,Single,8095,18264,No
+23,No,Research & Development,465,Male,1,Research Scientist,Divorced,2904,16092,No
+41,No,Research & Development,466,Male,2,Manufacturing Director,Single,6032,10110,Yes
+47,No,Sales,467,Male,2,Sales Representative,Single,2976,25751,No
+42,No,Research & Development,468,Female,4,Research Director,Single,15992,15901,No
+29,No,Sales,469,Male,2,Sales Executive,Married,4649,16928,No
+42,No,Human Resources,470,Male,1,Human Resources,Divorced,2696,24017,Yes
+32,No,Research & Development,471,Female,1,Laboratory Technician,Married,2370,3956,No
+48,No,Sales,473,Female,3,Manager,Married,12504,23978,No
+37,No,Research & Development,474,Male,2,Research Scientist,Divorced,5974,17001,Yes
+30,No,Sales,475,Female,2,Sales Executive,Married,4736,6069,Yes
+26,No,Sales,476,Male,2,Sales Executive,Married,5296,20156,No
+42,No,Research & Development,477,Male,2,Healthcare Representative,Single,6781,17078,No
+21,Yes,Sales,478,Female,1,Sales Representative,Single,2174,9150,Yes
+36,No,Sales,479,Female,2,Sales Executive,Single,6653,15276,No
+36,No,Sales,481,Male,3,Sales Executive,Married,9699,7246,No
+57,No,Research & Development,482,Male,2,Healthcare Representative,Married,6755,2967,No
+40,No,Research & Development,483,Female,1,Laboratory Technician,Married,2213,22495,Yes
+21,No,Sales,484,Male,1,Sales Representative,Single,2610,2851,No
+33,Yes,Sales,485,Female,1,Sales Representative,Single,2851,9150,Yes
+37,No,Research & Development,486,Female,1,Laboratory Technician,Married,3452,17663,No
+46,No,Research & Development,487,Female,2,Manufacturing Director,Married,5258,16044,No
+41,Yes,Sales,488,Male,2,Sales Executive,Single,9355,9558,No
+50,No,Research & Development,491,Male,3,Healthcare Representative,Single,10496,2755,No
+40,Yes,Sales,492,Male,2,Sales Executive,Married,6380,6110,Yes
+31,No,Research & Development,493,Male,1,Research Scientist,Single,2657,7551,Yes
+21,Yes,Sales,494,Female,1,Sales Representative,Single,2716,25422,No
+29,No,Research & Development,495,Male,1,Research Scientist,Single,2201,18168,No
+35,No,Research & Development,496,Male,2,Healthcare Representative,Single,6540,19394,No
+27,No,Research & Development,497,Male,1,Laboratory Technician,Divorced,3816,17881,No
+28,No,Sales,498,Male,2,Sales Executive,Single,5253,20750,No
+49,No,Research & Development,499,Male,3,Healthcare Representative,Single,10965,12066,No
+51,No,Sales,500,Female,2,Sales Executive,Married,4936,14862,No
+36,No,Research & Development,501,Female,1,Research Scientist,Married,2543,11868,No
+34,Yes,Sales,502,Male,2,Sales Executive,Single,5304,4652,Yes
+55,No,Research & Development,505,Female,4,Manager,Single,16659,23258,Yes
+24,No,Sales,507,Female,2,Sales Executive,Divorced,4260,5915,Yes
+30,No,Sales,508,Male,1,Sales Representative,Married,2476,17434,No
+26,Yes,Research & Development,510,Male,1,Research Scientist,Single,3102,6582,No
+22,No,Research & Development,511,Female,1,Research Scientist,Married,2244,24440,No
+36,No,Sales,513,Male,3,Sales Executive,Married,7596,3809,No
+30,Yes,Research & Development,514,Male,1,Research Scientist,Single,2285,3427,Yes
+37,No,Research & Development,515,Female,1,Laboratory Technician,Divorced,3034,26914,No
+40,No,Sales,516,Female,2,Sales Executive,Divorced,5715,22553,No
+42,No,Research & Development,517,Female,1,Laboratory Technician,Divorced,2576,20490,No
+37,No,Research & Development,518,Male,2,Manufacturing Director,Single,4197,21123,Yes
+43,No,Research & Development,520,Male,4,Research Director,Divorced,14336,4345,No
+40,No,Research & Development,521,Female,2,Laboratory Technician,Married,3448,13436,No
+54,No,Research & Development,522,Male,5,Research Director,Married,19406,8509,No
+34,No,Sales,523,Female,2,Sales Executive,Married,6538,12740,No
+31,No,Research & Development,524,Female,2,Manufacturing Director,Married,4306,4156,No
+43,No,Research & Development,525,Male,1,Laboratory Technician,Married,2258,15238,No
+43,No,Research & Development,526,Female,2,Healthcare Representative,Divorced,4522,2227,Yes
+25,No,Sales,527,Female,2,Sales Executive,Single,4487,12090,Yes
+37,No,Research & Development,529,Female,2,Research Scientist,Married,4449,23866,Yes
+31,No,Research & Development,530,Male,1,Laboratory Technician,Married,2218,16193,No
+39,No,Research & Development,531,Male,5,Manager,Divorced,19197,8213,Yes
+56,No,Sales,532,Female,4,Sales Executive,Married,13212,18256,No
+30,No,Sales,533,Female,2,Sales Executive,Single,6577,19558,No
+41,No,Sales,534,Male,3,Sales Executive,Married,8392,19566,No
+28,No,Research & Development,536,Male,2,Laboratory Technician,Divorced,4558,13535,No
+25,Yes,Research & Development,538,Male,1,Laboratory Technician,Married,4031,9396,No
+52,No,Research & Development,543,Male,3,Manufacturing Director,Married,7969,19609,Yes
+45,No,Research & Development,544,Male,1,Research Scientist,Married,2654,9655,No
+52,No,Research & Development,546,Female,4,Manager,Married,16555,10310,No
+42,No,Research & Development,547,Female,2,Research Scientist,Divorced,4556,12932,No
+30,No,Research & Development,548,Female,2,Manufacturing Director,Single,6091,24793,No
+60,No,Research & Development,549,Female,5,Manager,Married,19566,3854,No
+46,No,Research & Development,550,Female,2,Manufacturing Director,Divorced,4810,26314,No
+42,No,Research & Development,551,Female,2,Healthcare Representative,Married,4523,4386,No
+24,Yes,Sales,554,Female,1,Sales Representative,Single,3202,21972,Yes
+34,Yes,Sales,555,Female,1,Sales Representative,Divorced,2351,12253,No
+38,No,Research & Development,556,Male,1,Laboratory Technician,Married,1702,12106,Yes
+40,No,Sales,558,Female,5,Manager,Married,18041,13022,No
+26,No,Research & Development,560,Female,1,Research Scientist,Divorced,2886,3032,No
+30,No,Research & Development,562,Male,1,Laboratory Technician,Married,2097,16734,No
+29,No,Research & Development,564,Male,3,Research Director,Married,11935,21526,No
+29,Yes,Research & Development,565,Female,1,Research Scientist,Married,2546,18300,No
+19,Yes,Human Resources,566,Male,1,Human Resources,Single,2564,18437,No
+30,No,Sales,567,Female,3,Sales Executive,Married,8412,2890,No
+57,No,Sales,568,Male,4,Manager,Divorced,14118,22102,No
+50,No,Research & Development,569,Male,4,Manager,Married,17046,9314,No
+30,No,Research & Development,571,Female,1,Laboratory Technician,Single,2564,7181,No
+60,No,Sales,573,Female,3,Sales Executive,Married,10266,2845,No
+47,No,Research & Development,574,Female,2,Manufacturing Director,Divorced,5070,7389,No
+46,No,Research & Development,575,Male,4,Research Director,Married,17861,2288,No
+35,No,Research & Development,577,Male,1,Laboratory Technician,Single,4230,19225,No
+54,No,Research & Development,578,Female,2,Laboratory Technician,Single,3780,23428,No
+34,No,Research & Development,579,Male,1,Research Scientist,Divorced,2768,8416,No
+46,No,Sales,580,Female,3,Sales Executive,Married,9071,11563,Yes
+31,No,Research & Development,581,Male,3,Manufacturing Director,Divorced,10648,14394,No
+33,Yes,Research & Development,582,Male,3,Manager,Married,13610,24619,Yes
+33,Yes,Research & Development,584,Male,1,Laboratory Technician,Divorced,3408,6705,No
+30,No,Sales,585,Male,1,Sales Representative,Single,2983,18398,No
+35,No,Research & Development,586,Male,3,Healthcare Representative,Married,7632,14295,Yes
+31,Yes,Research & Development,587,Male,3,Healthcare Representative,Married,9824,22908,No
+34,Yes,Human Resources,590,Female,3,Human Resources,Divorced,9950,11533,Yes
+42,No,Research & Development,591,Male,1,Laboratory Technician,Married,2093,9260,No
+36,No,Sales,592,Male,3,Sales Executive,Single,9980,15318,No
+22,Yes,Research & Development,593,Male,1,Laboratory Technician,Single,3894,9129,No
+48,No,Sales,595,Female,2,Sales Executive,Married,4051,19658,No
+55,No,Sales,597,Female,4,Manager,Single,16835,9873,No
+41,No,Sales,599,Male,2,Sales Executive,Single,6230,13430,No
+35,No,Sales,600,Male,2,Sales Executive,Married,4717,18659,No
+40,No,Research & Development,601,Female,4,Manufacturing Director,Single,13237,20364,No
+39,No,Research & Development,602,Female,1,Laboratory Technician,Married,3755,17872,No
+31,No,Sales,604,Male,2,Sales Executive,Single,6582,8346,Yes
+42,No,Research & Development,605,Male,3,Manufacturing Director,Married,7406,6950,Yes
+45,No,Sales,606,Male,2,Sales Executive,Married,4805,16177,No
+26,Yes,Human Resources,608,Female,1,Human Resources,Divorced,2741,22808,Yes
+29,No,Research & Development,611,Male,2,Manufacturing Director,Divorced,4262,22645,No
+33,No,Research & Development,612,Female,4,Research Director,Divorced,16184,22578,No
+31,No,Sales,613,Male,3,Manager,Divorced,11557,25291,No
+18,Yes,Sales,614,Male,1,Sales Representative,Single,1878,8059,Yes
+40,No,Sales,615,Male,3,Sales Executive,Divorced,10932,11373,No
+41,No,Research & Development,616,Female,2,Healthcare Representative,Single,6811,2112,Yes
+26,No,Sales,618,Male,2,Sales Executive,Divorced,4306,4267,No
+35,No,Sales,620,Female,2,Sales Executive,Single,4859,6698,No
+34,No,Sales,621,Male,2,Sales Executive,Single,5337,19921,No
+26,Yes,Research & Development,622,Male,1,Laboratory Technician,Single,2340,23213,Yes
+37,No,Research & Development,623,Female,3,Manufacturing Director,Single,7491,23848,No
+46,No,Research & Development,624,Female,3,Healthcare Representative,Married,10527,8984,No
+41,No,Sales,625,Female,4,Manager,Married,16595,5626,No
+37,No,Sales,626,Male,3,Sales Executive,Divorced,8834,24666,No
+52,No,Research & Development,630,Male,2,Research Scientist,Divorced,5577,22087,Yes
+32,Yes,Sales,631,Male,2,Sales Executive,Married,4707,23914,No
+24,No,Sales,632,Male,1,Sales Representative,Married,2400,5530,No
+38,No,Research & Development,634,Female,2,Healthcare Representative,Married,9824,22174,No
+37,No,Research & Development,635,Female,2,Manufacturing Director,Married,6447,15701,No
+49,No,Research & Development,638,Male,5,Research Director,Divorced,19502,2125,Yes
+24,No,Research & Development,639,Male,1,Research Scientist,Married,2725,21630,Yes
+26,No,Sales,641,Male,2,Sales Executive,Married,6272,7428,No
+24,No,Research & Development,643,Male,1,Laboratory Technician,Married,2127,9100,No
+50,No,Human Resources,644,Male,5,Manager,Married,18200,7999,No
+25,No,Sales,645,Male,1,Sales Representative,Married,2096,26376,No
+24,Yes,Research & Development,647,Female,1,Laboratory Technician,Married,2886,14168,Yes
+30,Yes,Sales,648,Male,1,Sales Representative,Married,2033,14470,No
+34,No,Research & Development,649,Male,1,Research Scientist,Married,3622,22794,Yes
+31,Yes,Sales,650,Male,2,Sales Executive,Divorced,4233,11512,No
+35,No,Research & Development,652,Male,2,Laboratory Technician,Single,3681,14004,No
+31,No,Sales,653,Male,2,Sales Executive,Divorced,5460,6219,No
+27,No,Research & Development,655,Female,1,Research Scientist,Divorced,2187,5013,No
+37,No,Sales,656,Male,2,Sales Executive,Married,9602,3010,Yes
+20,No,Research & Development,657,Female,1,Research Scientist,Single,2836,11757,No
+42,No,Research & Development,659,Female,2,Healthcare Representative,Married,4089,5718,No
+43,No,Research & Development,661,Male,4,Research Director,Divorced,16627,2671,Yes
+38,No,Research & Development,662,Female,1,Research Scientist,Single,2619,14561,No
+43,No,Research & Development,663,Male,2,Laboratory Technician,Divorced,5679,19627,Yes
+48,No,Research & Development,664,Female,4,Manager,Married,15402,17997,No
+44,No,Human Resources,665,Female,2,Human Resources,Single,5985,26894,No
+34,No,Sales,666,Female,1,Sales Representative,Divorced,2579,2912,Yes
+27,Yes,Sales,667,Male,1,Sales Representative,Divorced,3041,16346,No
+21,No,Sales,669,Male,1,Sales Representative,Single,3447,24444,No
+44,No,Research & Development,671,Male,5,Manager,Married,19513,9358,Yes
+22,No,Research & Development,675,Male,1,Research Scientist,Married,2773,12145,No
+33,No,Sales,677,Male,2,Sales Executive,Divorced,7104,20431,No
+32,No,Research & Development,679,Female,2,Research Scientist,Married,6322,18089,Yes
+30,No,Research & Development,680,Female,1,Research Scientist,Divorced,2083,22653,No
+53,No,Sales,682,Female,2,Sales Executive,Single,8381,7507,No
+34,No,Research & Development,683,Male,1,Research Scientist,Married,2691,7660,No
+45,Yes,Sales,684,Female,2,Sales Executive,Married,4286,5630,No
+26,No,Research & Development,686,Female,1,Laboratory Technician,Married,2659,17759,Yes
+37,No,Research & Development,689,Male,3,Manufacturing Director,Married,9434,9606,No
+29,No,Sales,690,Female,2,Sales Executive,Married,5561,3487,No
+35,No,Research & Development,691,Male,2,Research Scientist,Single,6646,19368,No
+33,No,Research & Development,692,Male,2,Healthcare Representative,Divorced,7725,5335,No
+54,No,Human Resources,698,Male,3,Human Resources,Married,10725,6729,No
+36,No,Research & Development,699,Male,2,Manufacturing Director,Divorced,8847,13934,Yes
+27,No,Research & Development,700,Male,1,Research Scientist,Single,2045,15174,No
+20,Yes,Research & Development,701,Male,1,Research Scientist,Single,1009,26999,Yes
+33,Yes,Research & Development,702,Male,1,Research Scientist,Single,3348,3164,Yes
+35,No,Research & Development,704,Male,1,Laboratory Technician,Married,1281,16900,No
+23,No,Research & Development,705,Male,1,Research Scientist,Married,2819,8544,No
+25,No,Sales,707,Male,2,Sales Executive,Married,4851,15678,No
+38,No,Sales,709,Female,2,Sales Executive,Single,4028,7791,No
+29,No,Research & Development,710,Male,1,Research Scientist,Divorced,2720,18959,No
+48,No,Sales,712,Male,2,Sales Executive,Married,8120,18597,No
+27,No,Sales,714,Female,2,Sales Executive,Divorced,4647,16673,Yes
+37,No,Research & Development,715,Male,1,Research Scientist,Single,4680,15232,No
+50,No,Research & Development,716,Male,1,Laboratory Technician,Married,3221,3297,Yes
+34,No,Research & Development,717,Female,3,Healthcare Representative,Single,8621,17654,No
+24,Yes,Sales,720,Female,2,Sales Executive,Single,4577,24785,No
+39,No,Research & Development,721,Female,2,Healthcare Representative,Single,4553,20978,No
+32,No,Sales,722,Male,2,Sales Executive,Single,5396,21703,No
+50,Yes,Sales,723,Male,2,Sales Executive,Married,6796,23452,Yes
+38,No,Research & Development,724,Female,2,Healthcare Representative,Single,7625,19383,No
+27,No,Research & Development,725,Female,3,Manufacturing Director,Married,7412,6009,No
+32,No,Research & Development,727,Female,3,Research Director,Single,11159,19373,No
+47,No,Sales,728,Male,2,Sales Executive,Single,4960,11825,No
+40,No,Sales,729,Male,3,Sales Executive,Married,10475,23772,Yes
+53,No,Research & Development,730,Male,4,Research Director,Married,14814,13514,No
+41,No,Human Resources,731,Male,5,Manager,Divorced,19141,8861,No
+60,No,Sales,732,Male,2,Sales Executive,Single,5405,11924,No
+27,No,Research & Development,733,Male,3,Manufacturing Director,Divorced,8793,4809,No
+41,No,Human Resources,734,Male,5,Manager,Married,19189,19562,No
+50,No,Sales,738,Male,1,Sales Representative,Married,3875,9983,No
+28,Yes,Research & Development,741,Female,1,Research Scientist,Single,2216,3872,Yes
+36,No,Research & Development,742,Female,3,Research Director,Married,11713,20335,No
+38,No,Research & Development,743,Female,3,Manufacturing Director,Single,7861,15397,Yes
+44,No,Research & Development,744,Male,1,Laboratory Technician,Single,3708,2104,No
+47,No,Sales,746,Female,4,Sales Executive,Divorced,13770,10225,Yes
+30,No,Sales,747,Male,2,Sales Executive,Divorced,5304,25275,No
+29,No,Sales,749,Male,1,Sales Representative,Single,2642,2755,No
+42,Yes,Research & Development,752,Male,1,Research Scientist,Divorced,2759,20366,Yes
+43,No,Sales,754,Male,2,Sales Executive,Married,6804,23683,No
+34,No,Research & Development,757,Female,2,Healthcare Representative,Single,6142,7360,No
+23,No,Research & Development,758,Male,1,Laboratory Technician,Married,2500,4344,No
+39,No,Human Resources,760,Female,2,Human Resources,Married,6389,18767,No
+56,No,Research & Development,762,Male,4,Healthcare Representative,Married,11103,20420,No
+40,No,Research & Development,763,Female,1,Research Scientist,Single,2342,22929,Yes
+27,No,Research & Development,764,Female,2,Healthcare Representative,Single,6811,23398,No
+29,No,Sales,766,Male,1,Sales Representative,Divorced,2297,17967,No
+53,No,Research & Development,769,Male,2,Laboratory Technician,Single,2450,10919,No
+35,No,Research & Development,771,Female,2,Healthcare Representative,Divorced,5093,4761,No
+32,No,Research & Development,772,Male,2,Laboratory Technician,Married,5309,21146,No
+38,No,Research & Development,773,Male,1,Research Scientist,Married,3057,20471,Yes
+34,No,Research & Development,775,Female,2,Manufacturing Director,Divorced,5121,4187,No
+52,No,Sales,776,Male,4,Manager,Married,16856,10084,No
+33,Yes,Research & Development,780,Male,1,Research Scientist,Single,2686,5207,Yes
+25,No,Sales,781,Female,2,Sales Executive,Single,6180,22807,No
+45,No,Sales,783,Male,2,Sales Representative,Single,6632,12388,No
+23,No,Research & Development,784,Male,1,Research Scientist,Single,3505,19630,No
+47,Yes,Sales,785,Female,2,Sales Executive,Single,6397,10339,Yes
+34,No,Sales,786,Male,2,Sales Executive,Single,6274,18686,No
+55,Yes,Research & Development,787,Male,5,Manager,Married,19859,21199,Yes
+36,No,Sales,789,Male,3,Sales Executive,Single,7587,14229,No
+52,No,Research & Development,791,Male,1,Research Scientist,Married,4258,26589,No
+26,No,Research & Development,792,Female,1,Laboratory Technician,Divorced,4364,5288,No
+29,No,Research & Development,793,Female,2,Healthcare Representative,Married,4335,25549,No
+26,Yes,Sales,796,Male,2,Sales Executive,Single,5326,3064,No
+34,No,Research & Development,797,Female,1,Research Scientist,Single,3280,13551,No
+54,No,Research & Development,799,Female,2,Manufacturing Director,Divorced,5485,22670,Yes
+27,No,Sales,800,Male,2,Sales Executive,Married,4342,24008,No
+37,No,Research & Development,802,Female,1,Research Scientist,Divorced,2782,19905,Yes
+38,No,Research & Development,803,Female,2,Manufacturing Director,Single,5980,26085,Yes
+34,No,Research & Development,804,Female,1,Research Scientist,Single,4381,7530,No
+35,No,Sales,805,Female,1,Sales Representative,Married,2572,20317,No
+30,No,Research & Development,806,Male,1,Laboratory Technician,Married,3833,24375,No
+40,No,Research & Development,807,Female,2,Healthcare Representative,Married,4244,9931,No
+34,No,Sales,808,Female,2,Sales Executive,Married,6500,13305,No
+42,No,Research & Development,809,Male,5,Manager,Divorced,18430,16225,No
+23,Yes,Research & Development,811,Male,1,Laboratory Technician,Married,1601,3445,Yes
+24,No,Research & Development,812,Male,1,Laboratory Technician,Divorced,2694,26551,No
+52,No,Research & Development,813,Female,2,Laboratory Technician,Married,3149,21821,No
+50,No,Research & Development,815,Male,4,Research Director,Married,17639,6881,No
+29,Yes,Research & Development,816,Female,1,Laboratory Technician,Married,2319,6689,Yes
+33,No,Research & Development,817,Male,3,Research Director,Married,11691,25995,No
+33,Yes,Sales,819,Female,2,Sales Executive,Single,5324,26507,No
+47,No,Research & Development,820,Female,4,Manager,Married,16752,12982,Yes
+36,No,Research & Development,823,Female,2,Manufacturing Director,Married,5228,23361,No
+29,No,Research & Development,824,Male,1,Research Scientist,Married,2700,23779,No
+58,Yes,Research & Development,825,Male,5,Research Director,Single,19246,25761,Yes
+35,No,Research & Development,826,Female,1,Research Scientist,Single,2506,13301,No
+42,No,Research & Development,827,Female,2,Manufacturing Director,Married,6062,4051,Yes
+28,Yes,Research & Development,828,Male,1,Research Scientist,Single,4382,16374,No
+36,No,Human Resources,829,Male,1,Human Resources,Married,2143,25527,No
+32,No,Research & Development,830,Female,2,Manufacturing Director,Married,6162,19124,No
+40,No,Research & Development,832,Male,2,Laboratory Technician,Single,5094,11983,No
+30,No,Research & Development,833,Female,2,Manufacturing Director,Single,6877,20234,Yes
+45,No,Research & Development,834,Female,1,Research Scientist,Single,2274,6153,No
+42,No,Research & Development,836,Male,2,Manufacturing Director,Married,4434,11806,No
+38,No,Research & Development,837,Male,2,Healthcare Representative,Divorced,6288,4284,No
+34,No,Research & Development,838,Female,1,Research Scientist,Single,2553,8306,No
+49,Yes,Sales,840,Female,3,Sales Executive,Married,7654,5860,No
+55,Yes,Sales,842,Male,2,Sales Executive,Single,5160,21519,No
+43,No,Research & Development,843,Male,4,Research Director,Married,17159,5200,No
+27,No,Research & Development,844,Male,3,Research Director,Divorced,12808,8842,Yes
+35,No,Research & Development,845,Male,3,Manufacturing Director,Single,10221,18869,No
+28,No,Sales,846,Female,2,Sales Executive,Married,4779,3698,Yes
+34,No,Human Resources,847,Male,1,Human Resources,Married,3737,2243,No
+26,Yes,Research & Development,848,Female,1,Research Scientist,Married,2366,20898,Yes
+27,No,Research & Development,850,Male,1,Research Scientist,Married,1706,16571,No
+51,No,Sales,851,Female,4,Manager,Married,16307,5594,No
+44,No,Research & Development,852,Male,2,Healthcare Representative,Single,5933,5197,No
+25,No,Research & Development,854,Male,1,Research Scientist,Single,3424,21632,No
+33,No,Sales,855,Male,2,Sales Executive,Divorced,4037,21816,No
+35,No,Research & Development,856,Female,1,Research Scientist,Single,2559,17852,No
+36,No,Sales,857,Male,2,Sales Executive,Married,6201,2823,Yes
+32,No,Sales,859,Male,2,Sales Executive,Divorced,4403,9250,No
+30,No,Research & Development,861,Male,1,Research Scientist,Divorced,3761,2373,No
+53,No,Sales,862,Female,3,Sales Executive,Married,10934,20715,Yes
+45,No,Sales,864,Male,3,Sales Executive,Divorced,10761,19239,Yes
+32,No,Research & Development,865,Female,2,Research Scientist,Married,5175,22162,No
+52,No,Research & Development,867,Female,4,Manufacturing Director,Married,13826,19028,No
+37,No,Sales,868,Male,2,Sales Executive,Divorced,6334,24558,No
+28,No,Human Resources,869,Male,1,Human Resources,Divorced,4936,23965,No
+22,No,Research & Development,872,Male,2,Manufacturing Director,Married,4775,19146,No
+44,No,Research & Development,874,Male,1,Laboratory Technician,Married,2818,5044,Yes
+42,No,Research & Development,875,Male,1,Research Scientist,Single,2515,9068,Yes
+36,No,Human Resources,878,Male,1,Human Resources,Married,2342,8635,No
+25,No,Sales,879,Male,2,Sales Executive,Married,4194,14363,Yes
+35,No,Research & Development,880,Female,3,Manufacturing Director,Married,10685,23457,Yes
+35,Yes,Research & Development,881,Female,1,Research Scientist,Divorced,2022,16612,Yes
+32,No,Research & Development,882,Male,1,Laboratory Technician,Divorced,2314,9148,No
+25,No,Sales,885,Male,2,Sales Executive,Married,4256,18154,No
+49,No,Research & Development,887,Female,1,Research Scientist,Married,3580,10554,No
+24,No,Research & Development,888,Male,1,Laboratory Technician,Married,3162,10778,No
+32,No,Sales,889,Male,2,Sales Executive,Married,6524,8891,No
+38,No,Sales,893,Male,1,Sales Representative,Married,2899,12102,No
+42,No,Research & Development,894,Female,2,Laboratory Technician,Married,5231,23726,Yes
+31,No,Research & Development,895,Male,1,Research Scientist,Married,2356,14871,Yes
+29,Yes,Sales,896,Female,1,Sales Representative,Divorced,2800,23522,Yes
+53,No,Sales,897,Male,4,Sales Executive,Married,11836,22789,No
+35,No,Research & Development,899,Male,3,Manufacturing Director,Married,10903,9129,No
+37,No,Sales,900,Female,1,Sales Representative,Married,2973,21222,No
+53,No,Research & Development,901,Female,4,Research Director,Single,14275,20206,No
+43,No,Research & Development,902,Female,2,Healthcare Representative,Married,5562,21782,No
+47,No,Sales,903,Female,2,Sales Executive,Married,4537,17783,Yes
+37,No,Sales,904,Male,3,Sales Executive,Single,7642,4814,Yes
+50,No,Research & Development,905,Male,4,Manager,Divorced,17924,4544,No
+39,No,Human Resources,909,Female,2,Human Resources,Married,5204,7790,No
+33,No,Human Resources,910,Male,1,Human Resources,Divorced,2277,22650,Yes
+32,Yes,Research & Development,911,Male,1,Laboratory Technician,Single,2795,18016,Yes
+29,No,Research & Development,912,Female,1,Laboratory Technician,Divorced,2532,6054,No
+44,No,Research & Development,913,Male,1,Research Scientist,Married,2559,7508,Yes
+28,No,Sales,916,Male,2,Sales Executive,Single,4908,24252,No
+58,Yes,Research & Development,918,Male,1,Laboratory Technician,Divorced,2380,13384,Yes
+43,No,Research & Development,920,Female,2,Manufacturing Director,Divorced,4765,23814,No
+20,Yes,Sales,922,Female,1,Sales Representative,Single,2044,22052,No
+21,Yes,Research & Development,923,Female,1,Research Scientist,Single,2693,8870,No
+36,No,Research & Development,924,Male,2,Healthcare Representative,Married,6586,4821,Yes
+47,No,Sales,925,Female,1,Sales Representative,Single,3294,13137,Yes
+22,Yes,Research & Development,926,Female,2,Manufacturing Director,Married,4171,10022,Yes
+41,Yes,Research & Development,927,Female,1,Laboratory Technician,Divorced,2778,17725,Yes
+28,No,Research & Development,930,Female,1,Research Scientist,Divorced,2377,9834,No
+39,Yes,Research & Development,932,Male,1,Laboratory Technician,Married,2404,4303,Yes
+27,No,Research & Development,933,Female,1,Research Scientist,Single,2318,17808,No
+34,No,Research & Development,934,Male,1,Laboratory Technician,Divorced,2008,6896,No
+42,No,Sales,936,Female,2,Sales Executive,Single,6244,7824,No
+33,No,Research & Development,939,Male,1,Research Scientist,Single,2799,3339,Yes
+58,No,Research & Development,940,Female,3,Healthcare Representative,Divorced,10552,9255,Yes
+31,No,Sales,941,Male,1,Sales Representative,Married,2329,11737,No
+35,No,Research & Development,942,Female,2,Healthcare Representative,Married,4014,19170,Yes
+49,No,Research & Development,944,Female,3,Laboratory Technician,Married,7403,22477,No
+48,No,Research & Development,945,Male,1,Research Scientist,Married,2259,5543,No
+31,No,Sales,947,Female,2,Sales Executive,Married,6932,24406,No
+36,No,Research & Development,949,Male,1,Research Scientist,Single,4678,23293,No
+38,No,Research & Development,950,Female,3,Research Director,Married,13582,16292,No
+32,No,Research & Development,951,Female,1,Laboratory Technician,Married,2332,3974,No
+25,Yes,Sales,952,Male,1,Sales Representative,Married,2413,18798,Yes
+40,No,Sales,954,Male,3,Sales Executive,Divorced,9705,20652,No
+26,No,Sales,956,Male,2,Sales Executive,Single,4294,11148,No
+41,No,Research & Development,957,Male,1,Laboratory Technician,Single,4721,3119,Yes
+36,No,Research & Development,958,Male,1,Laboratory Technician,Single,2519,12287,No
+19,Yes,Sales,959,Male,1,Sales Representative,Single,2121,9947,Yes
+20,Yes,Research & Development,960,Male,1,Laboratory Technician,Single,2973,13008,No
+31,No,Research & Development,961,Female,2,Healthcare Representative,Married,5855,17369,Yes
+40,No,Research & Development,964,Male,1,Research Scientist,Divorced,3617,25063,Yes
+32,No,Research & Development,966,Female,2,Manufacturing Director,Married,6725,13554,No
+36,Yes,Sales,967,Male,3,Sales Executive,Married,10325,5518,Yes
+33,No,Research & Development,969,Female,2,Healthcare Representative,Single,6949,12291,No
+37,Yes,Sales,970,Male,3,Sales Executive,Married,10609,14922,No
+45,No,Research & Development,972,Male,2,Laboratory Technician,Married,4447,23163,No
+29,No,Sales,974,Female,1,Sales Representative,Married,2157,18203,No
+35,No,Sales,975,Female,2,Sales Executive,Married,4601,6179,No
+52,No,Research & Development,976,Male,4,Manager,Married,17099,13829,No
+58,Yes,Research & Development,977,Male,1,Research Scientist,Single,2479,26227,No
+53,No,Sales,981,Male,4,Manager,Divorced,14852,13938,No
+30,No,Sales,982,Male,3,Sales Executive,Divorced,7264,9977,No
+38,No,Sales,983,Female,2,Sales Executive,Single,5666,19899,Yes
+35,No,Sales,984,Male,3,Sales Executive,Divorced,7823,6812,No
+39,No,Sales,985,Male,3,Sales Executive,Single,7880,2560,No
+40,Yes,Sales,986,Female,4,Sales Executive,Single,13194,17071,Yes
+47,No,Research & Development,987,Male,2,Manufacturing Director,Divorced,5067,6759,Yes
+36,No,Sales,990,Male,2,Sales Executive,Divorced,5079,25952,No
+31,Yes,Research & Development,991,Male,1,Research Scientist,Single,2321,10322,Yes
+33,No,Sales,992,Male,4,Manager,Single,17444,20489,No
+29,Yes,Research & Development,994,Female,1,Research Scientist,Single,2404,11479,Yes
+33,No,Research & Development,995,Female,1,Research Scientist,Single,3452,17241,No
+45,No,Research & Development,996,Female,1,Laboratory Technician,Divorced,2270,11005,No
+50,No,Research & Development,997,Male,4,Research Director,Divorced,17399,6615,No
+33,No,Research & Development,998,Female,2,Healthcare Representative,Married,5488,20161,Yes
+41,No,Research & Development,999,Male,5,Research Director,Divorced,19419,3735,No
+27,No,Research & Development,1001,Female,1,Laboratory Technician,Married,2811,12086,No
+45,No,Research & Development,1002,Male,2,Laboratory Technician,Married,3633,14039,Yes
+47,No,Sales,1003,Female,2,Sales Executive,Single,4163,8571,Yes
+30,Yes,Research & Development,1004,Female,1,Research Scientist,Married,2132,11539,Yes
+50,No,Research & Development,1005,Male,4,Manufacturing Director,Married,13973,4161,Yes
+38,No,Research & Development,1006,Male,1,Research Scientist,Married,2684,12127,No
+46,No,Research & Development,1007,Male,3,Manufacturing Director,Divorced,10845,24208,No
+24,No,Research & Development,1009,Female,2,Manufacturing Director,Divorced,4377,24117,No
+35,Yes,Research & Development,1010,Male,1,Laboratory Technician,Divorced,3743,10074,Yes
+31,No,Research & Development,1011,Female,2,Manufacturing Director,Married,4148,11275,No
+18,No,Research & Development,1012,Male,1,Research Scientist,Single,1051,13493,No
+54,No,Research & Development,1013,Female,3,Manufacturing Director,Married,10739,13943,No
+35,No,Research & Development,1014,Female,3,Healthcare Representative,Divorced,10388,6975,Yes
+30,No,Research & Development,1015,Female,3,Research Director,Married,11416,17802,Yes
+20,Yes,Research & Development,1016,Female,1,Research Scientist,Single,2600,18275,Yes
+30,Yes,Research & Development,1017,Female,1,Laboratory Technician,Single,2422,25725,No
+26,No,Research & Development,1018,Male,2,Manufacturing Director,Married,5472,3334,No
+22,No,Research & Development,1019,Male,1,Laboratory Technician,Married,2451,6881,No
+48,No,Research & Development,1022,Male,2,Healthcare Representative,Single,4240,13119,No
+48,No,Research & Development,1024,Male,3,Healthcare Representative,Single,10999,22245,No
+41,No,Research & Development,1025,Female,2,Manufacturing Director,Single,5003,23371,No
+39,No,Research & Development,1026,Female,4,Manufacturing Director,Married,12742,7060,No
+27,No,Research & Development,1027,Female,2,Manufacturing Director,Married,4227,4658,No
+35,No,Research & Development,1028,Male,1,Laboratory Technician,Divorced,3917,9541,No
+42,No,Sales,1029,Male,5,Manager,Married,18303,7770,No
+50,No,Research & Development,1030,Male,1,Laboratory Technician,Married,2380,20165,No
+59,No,Research & Development,1032,Female,4,Manufacturing Director,Single,13726,21829,Yes
+37,Yes,Research & Development,1033,Female,2,Healthcare Representative,Married,4777,14382,No
+55,No,Research & Development,1034,Male,2,Healthcare Representative,Married,6385,12992,Yes
+41,No,Research & Development,1035,Female,5,Research Director,Divorced,19973,20284,No
+38,No,Sales,1036,Male,2,Sales Executive,Single,6861,4981,Yes
+26,Yes,Sales,1037,Male,2,Sales Executive,Single,4969,21813,No
+52,Yes,Sales,1038,Female,5,Manager,Married,19845,25846,No
+44,No,Sales,1039,Female,4,Sales Executive,Married,13320,11737,Yes
+50,No,Sales,1040,Female,2,Sales Executive,Married,6347,24920,No
+36,Yes,Research & Development,1042,Female,1,Laboratory Technician,Single,2743,8269,No
+39,No,Research & Development,1043,Female,3,Manufacturing Director,Single,10880,5083,Yes
+33,No,Sales,1044,Female,1,Sales Representative,Single,2342,21437,No
+45,No,Sales,1045,Female,4,Manager,Married,17650,5404,No
+32,No,Research & Development,1046,Female,1,Laboratory Technician,Single,4025,11135,No
+34,No,Sales,1047,Male,2,Sales Executive,Divorced,9725,12278,No
+59,No,Sales,1048,Male,3,Manager,Married,11904,11038,Yes
+45,No,Human Resources,1049,Male,1,Human Resources,Single,2177,8318,No
+53,No,Sales,1050,Female,3,Sales Executive,Married,7525,23537,No
+36,Yes,Research & Development,1052,Male,2,Laboratory Technician,Divorced,4834,7858,No
+26,Yes,Research & Development,1053,Male,1,Research Scientist,Married,2042,15346,Yes
+34,No,Sales,1055,Female,1,Sales Representative,Married,2220,18410,Yes
+28,No,Sales,1056,Male,1,Sales Representative,Married,1052,23384,No
+38,No,Research & Development,1060,Male,1,Research Scientist,Married,2821,2997,No
+50,No,Research & Development,1061,Male,5,Research Director,Married,19237,12853,Yes
+37,No,Research & Development,1062,Female,2,Healthcare Representative,Single,4107,13848,No
+40,No,Sales,1066,Male,2,Sales Executive,Married,8396,22217,No
+26,No,Research & Development,1068,Female,1,Research Scientist,Divorced,2007,25265,No
+46,No,Research & Development,1069,Male,5,Research Director,Divorced,19627,21445,No
+54,No,Sales,1070,Female,3,Sales Executive,Married,10686,8392,No
+56,No,Research & Development,1071,Female,1,Research Scientist,Married,2942,12154,No
+36,No,Research & Development,1073,Female,3,Manufacturing Director,Single,8858,15669,No
+55,No,Research & Development,1074,Male,4,Manager,Single,16756,17323,No
+43,No,Sales,1076,Male,3,Sales Executive,Divorced,10798,5268,No
+20,Yes,Sales,1077,Female,1,Sales Representative,Single,2323,17205,Yes
+21,Yes,Research & Development,1079,Female,1,Laboratory Technician,Single,1416,17258,No
+46,No,Research & Development,1080,Female,2,Research Scientist,Divorced,4615,21029,Yes
+51,Yes,Research & Development,1081,Male,1,Research Scientist,Married,2461,10332,Yes
+28,Yes,Research & Development,1082,Male,3,Healthcare Representative,Single,8722,12355,No
+26,No,Research & Development,1083,Male,1,Laboratory Technician,Married,3955,11141,No
+30,No,Research & Development,1084,Male,2,Manufacturing Director,Married,9957,9096,No
+41,No,Research & Development,1085,Female,1,Research Scientist,Married,3376,18863,No
+38,No,Research & Development,1088,Female,3,Healthcare Representative,Married,8823,24608,No
+40,No,Research & Development,1092,Male,3,Healthcare Representative,Married,10322,26542,No
+27,No,Research & Development,1094,Male,1,Laboratory Technician,Married,4621,5869,No
+55,No,Research & Development,1096,Male,3,Manufacturing Director,Married,10976,15813,No
+28,No,Research & Development,1097,Female,2,Research Scientist,Single,3660,7909,No
+44,Yes,Human Resources,1098,Male,3,Human Resources,Married,10482,2326,No
+33,No,Research & Development,1099,Male,3,Healthcare Representative,Divorced,7119,21214,No
+35,Yes,Sales,1100,Male,3,Sales Executive,Single,9582,10333,Yes
+33,Yes,Research & Development,1101,Female,2,Research Scientist,Single,4508,3129,No
+28,No,Research & Development,1102,Male,1,Laboratory Technician,Divorced,2207,22482,No
+34,No,Research & Development,1103,Male,2,Healthcare Representative,Single,7756,22266,No
+37,No,Sales,1105,Female,2,Sales Executive,Divorced,6694,24223,Yes
+25,Yes,Research & Development,1106,Male,1,Laboratory Technician,Married,3691,4605,Yes
+26,Yes,Research & Development,1107,Male,1,Laboratory Technician,Divorced,2377,19373,No
+33,Yes,Research & Development,1108,Male,1,Research Scientist,Single,2313,2993,Yes
+42,No,Research & Development,1109,Male,4,Manager,Married,17665,14399,No
+28,Yes,Research & Development,1111,Male,1,Laboratory Technician,Divorced,2596,7160,No
+50,Yes,Sales,1113,Male,2,Sales Executive,Single,4728,17251,Yes
+33,No,Sales,1114,Female,2,Sales Executive,Married,4302,13401,No
+34,No,Research & Development,1115,Male,1,Research Scientist,Married,2979,22478,No
+48,No,Research & Development,1116,Male,4,Manager,Single,16885,16154,No
+45,No,Sales,1117,Female,2,Sales Executive,Married,5593,17970,No
+52,No,Research & Development,1118,Male,3,Healthcare Representative,Single,10445,15322,No
+38,No,Sales,1119,Male,3,Sales Executive,Divorced,8740,5569,Yes
+29,No,Research & Development,1120,Female,1,Research Scientist,Divorced,2514,26968,No
+28,No,Research & Development,1121,Female,3,Manufacturing Director,Divorced,7655,8039,No
+46,No,Sales,1124,Male,4,Manager,Married,17465,15596,No
+38,No,Sales,1125,Male,3,Sales Executive,Single,7351,20619,No
+43,No,Research & Development,1126,Female,3,Manufacturing Director,Married,10820,11535,No
+39,Yes,Research & Development,1127,Male,4,Healthcare Representative,Divorced,12169,13547,No
+40,No,Research & Development,1128,Male,5,Research Director,Single,19626,17544,No
+21,No,Research & Development,1131,Female,1,Research Scientist,Single,2070,25326,Yes
+39,No,Research & Development,1132,Male,2,Laboratory Technician,Single,6782,8770,No
+36,No,Research & Development,1133,Male,2,Manufacturing Director,Single,7779,23238,No
+31,No,Sales,1135,Male,1,Sales Representative,Married,2791,21981,No
+28,No,Research & Development,1136,Male,1,Research Scientist,Married,3201,19911,No
+35,No,Sales,1137,Male,2,Sales Executive,Divorced,4968,18500,No
+49,No,Sales,1138,Male,4,Sales Executive,Married,13120,11879,No
+34,No,Research & Development,1140,Male,2,Manufacturing Director,Single,4033,15834,No
+29,No,Research & Development,1143,Female,1,Research Scientist,Divorced,3291,17940,No
+42,No,Research & Development,1148,Male,2,Laboratory Technician,Single,4272,9558,No
+29,No,Research & Development,1150,Male,2,Manufacturing Director,Married,5056,17689,Yes
+38,No,Human Resources,1152,Male,1,Human Resources,Married,2844,6004,No
+28,No,Research & Development,1154,Male,1,Research Scientist,Divorced,2703,22088,Yes
+18,Yes,Research & Development,1156,Male,1,Laboratory Technician,Single,1904,13556,No
+33,Yes,Sales,1157,Female,2,Sales Executive,Single,8224,18385,Yes
+41,No,Research & Development,1158,Male,1,Laboratory Technician,Married,4766,9051,Yes
+31,Yes,Research & Development,1160,Male,1,Laboratory Technician,Married,2610,6233,No
+37,No,Research & Development,1161,Female,2,Healthcare Representative,Divorced,5731,17171,No
+27,No,Research & Development,1162,Male,1,Research Scientist,Married,2539,7950,No
+34,No,Sales,1163,Female,2,Sales Executive,Married,5714,5829,No
+35,No,Human Resources,1164,Male,1,Human Resources,Single,4323,7108,No
+29,Yes,Sales,1165,Female,3,Sales Executive,Married,7336,11162,No
+40,No,Research & Development,1166,Female,3,Research Director,Single,13499,13782,No
+42,Yes,Sales,1167,Male,4,Sales Executive,Single,13758,2447,Yes
+42,No,Sales,1171,Male,2,Sales Executive,Single,5155,2253,No
+35,No,Research & Development,1172,Male,1,Laboratory Technician,Married,2258,16340,No
+24,No,Research & Development,1173,Male,1,Laboratory Technician,Single,3597,6409,No
+28,Yes,Research & Development,1175,Female,1,Laboratory Technician,Married,2515,22955,Yes
+26,No,Research & Development,1177,Male,1,Laboratory Technician,Married,4420,13421,No
+30,No,Sales,1179,Male,2,Sales Executive,Married,6578,2706,No
+40,No,Research & Development,1180,Female,2,Research Scientist,Married,4422,21203,Yes
+35,No,Research & Development,1182,Male,3,Manufacturing Director,Divorced,10274,19588,No
+34,No,Research & Development,1184,Male,2,Healthcare Representative,Single,5343,25755,No
+35,No,Research & Development,1185,Male,1,Laboratory Technician,Married,2376,26537,No
+43,Yes,Sales,1188,Female,2,Sales Executive,Single,5346,9489,No
+32,No,Sales,1190,Female,1,Sales Representative,Divorced,2827,14947,No
+56,No,Research & Development,1191,Female,5,Manager,Divorced,19943,18575,No
+29,No,Research & Development,1192,Female,1,Laboratory Technician,Married,3131,26342,No
+19,No,Research & Development,1193,Male,1,Research Scientist,Single,2552,7172,No
+45,No,Research & Development,1195,Female,1,Research Scientist,Married,4477,20100,Yes
+37,No,Research & Development,1196,Female,2,Manufacturing Director,Married,6474,9961,No
+20,No,Research & Development,1198,Male,1,Laboratory Technician,Single,3033,12828,No
+44,Yes,Research & Development,1200,Male,1,Research Scientist,Single,2936,10826,Yes
+53,No,Research & Development,1201,Female,5,Manager,Divorced,18606,18640,No
+29,No,Research & Development,1202,Female,1,Research Scientist,Married,2168,26933,Yes
+22,Yes,Research & Development,1203,Male,1,Research Scientist,Married,2853,4223,Yes
+46,No,Sales,1204,Female,4,Manager,Married,17048,24097,No
+44,No,Research & Development,1206,Male,1,Research Scientist,Single,2290,4279,No
+33,No,Human Resources,1207,Male,1,Human Resources,Married,3600,8429,No
+41,Yes,Research & Development,1210,Male,1,Research Scientist,Divorced,2107,20293,No
+30,No,Sales,1211,Male,2,Sales Executive,Divorced,4115,13192,No
+40,No,Sales,1212,Male,2,Sales Executive,Married,4327,25440,No
+50,No,Research & Development,1215,Female,4,Manager,Married,17856,9490,No
+28,No,Research & Development,1216,Male,1,Laboratory Technician,Married,3196,12449,No
+46,No,Research & Development,1217,Male,5,Research Director,Married,19081,10849,No
+35,No,Sales,1218,Male,2,Sales Executive,Married,8966,21026,Yes
+24,Yes,Research & Development,1219,Female,1,Laboratory Technician,Married,2210,3372,No
+33,No,Sales,1220,Female,2,Sales Executive,Married,4539,4905,No
+36,No,Research & Development,1221,Male,1,Laboratory Technician,Divorced,2741,6865,No
+30,No,Research & Development,1224,Male,2,Laboratory Technician,Divorced,3491,11309,No
+44,No,Research & Development,1225,Male,2,Research Scientist,Single,4541,7744,No
+20,No,Sales,1226,Male,1,Sales Representative,Single,2678,5050,No
+46,No,Research & Development,1228,Male,2,Manufacturing Director,Divorced,7379,17433,No
+42,No,Human Resources,1231,Male,2,Human Resources,Married,6272,12858,No
+60,No,Sales,1233,Male,2,Sales Executive,Divorced,5220,10893,Yes
+32,No,Research & Development,1234,Female,1,Laboratory Technician,Married,2743,7331,No
+32,No,Research & Development,1235,Female,2,Research Scientist,Single,4998,2338,Yes
+36,No,Research & Development,1237,Female,3,Manufacturing Director,Divorced,10252,4235,Yes
+33,No,Research & Development,1238,Male,1,Research Scientist,Married,2781,6311,No
+40,No,Sales,1239,Female,2,Sales Executive,Divorced,6852,11591,No
+25,No,Sales,1240,Male,2,Sales Executive,Single,4950,20623,No
+30,No,Research & Development,1241,Male,1,Research Scientist,Married,3579,9369,Yes
+42,No,Research & Development,1242,Female,3,Research Director,Married,13191,23281,Yes
+35,No,Sales,1243,Female,3,Sales Executive,Married,10377,13755,Yes
+27,No,Research & Development,1244,Male,1,Research Scientist,Married,2235,14377,Yes
+54,No,Research & Development,1245,Female,3,Manufacturing Director,Divorced,10502,9659,No
+44,No,Research & Development,1246,Female,1,Research Scientist,Married,2011,19982,No
+19,Yes,Research & Development,1248,Female,1,Research Scientist,Single,1859,6148,Yes
+29,No,Research & Development,1249,Female,1,Research Scientist,Divorced,3760,5598,No
+54,No,Research & Development,1250,Male,4,Research Director,Married,17779,23474,No
+31,No,Research & Development,1251,Male,2,Healthcare Representative,Married,6833,17089,Yes
+31,No,Research & Development,1252,Female,2,Healthcare Representative,Single,6812,17198,No
+59,No,Sales,1254,Female,2,Sales Executive,Single,5171,16490,No
+43,No,Research & Development,1255,Male,5,Research Director,Married,19740,18625,No
+49,No,Research & Development,1256,Male,5,Manager,Married,18711,12124,No
+36,No,Research & Development,1257,Male,1,Research Scientist,Married,3692,9256,No
+48,No,Research & Development,1258,Male,1,Laboratory Technician,Single,2559,16620,No
+27,No,Research & Development,1259,Male,1,Research Scientist,Divorced,2517,3208,No
+29,No,Research & Development,1260,Male,2,Healthcare Representative,Divorced,6623,4204,Yes
+48,No,Research & Development,1263,Male,5,Research Director,Single,18265,8733,No
+29,No,Research & Development,1264,Female,4,Research Director,Divorced,16124,3423,No
+34,No,Research & Development,1265,Female,1,Research Scientist,Married,2585,21643,No
+44,No,Sales,1267,Male,5,Manager,Married,18213,8751,No
+33,No,Sales,1268,Male,3,Sales Executive,Divorced,8380,21708,Yes
+19,No,Research & Development,1269,Female,1,Research Scientist,Single,2994,21221,Yes
+23,No,Research & Development,1270,Male,1,Research Scientist,Married,1223,16901,No
+25,Yes,Sales,1273,Male,1,Sales Representative,Single,1118,8040,Yes
+26,No,Research & Development,1275,Male,1,Research Scientist,Single,2875,9973,Yes
+45,Yes,Sales,1277,Female,5,Manager,Single,18824,2493,Yes
+55,No,Research & Development,1278,Male,4,Healthcare Representative,Divorced,13577,25592,Yes
+21,Yes,Research & Development,1279,Female,1,Laboratory Technician,Single,2625,25308,No
+46,No,Sales,1280,Female,5,Manager,Married,18789,9946,No
+34,No,Sales,1281,Female,2,Sales Executive,Single,4538,6039,Yes
+51,No,Sales,1282,Male,5,Manager,Divorced,19847,19196,Yes
+59,No,Research & Development,1283,Male,3,Manufacturing Director,Single,10512,20002,No
+34,No,Research & Development,1285,Female,2,Laboratory Technician,Divorced,4444,22534,No
+28,No,Research & Development,1286,Male,1,Laboratory Technician,Single,2154,6842,Yes
+44,No,Research & Development,1288,Male,5,Manager,Divorced,19190,17477,No
+34,No,Human Resources,1289,Male,2,Human Resources,Married,4490,21833,No
+35,No,Research & Development,1291,Male,1,Research Scientist,Married,3506,6020,Yes
+42,No,Research & Development,1292,Female,2,Research Scientist,Married,2372,5628,Yes
+43,No,Sales,1293,Female,3,Sales Executive,Single,10231,20364,No
+36,No,Research & Development,1294,Female,2,Manufacturing Director,Single,5410,2323,Yes
+44,Yes,Research & Development,1295,Female,3,Healthcare Representative,Married,7978,14075,No
+28,No,Research & Development,1296,Male,1,Laboratory Technician,Married,3867,14222,Yes
+51,No,Research & Development,1297,Female,1,Laboratory Technician,Single,2838,4257,No
+30,No,Research & Development,1298,Female,2,Manufacturing Director,Single,4695,12858,Yes
+29,Yes,Research & Development,1299,Female,1,Laboratory Technician,Divorced,3339,17285,Yes
+28,No,Research & Development,1301,Male,1,Research Scientist,Single,2080,4732,No
+25,No,Research & Development,1303,Female,1,Research Scientist,Single,2096,18830,No
+32,No,Sales,1304,Male,2,Sales Executive,Married,6209,11693,No
+45,No,Research & Development,1306,Female,5,Manager,Single,18061,13035,No
+39,No,Research & Development,1307,Female,4,Manager,Divorced,17123,17334,Yes
+58,No,Research & Development,1308,Male,1,Research Scientist,Divorced,2372,26076,No
+32,Yes,Research & Development,1309,Male,2,Laboratory Technician,Married,4883,22845,No
+39,Yes,Research & Development,1310,Male,1,Research Scientist,Single,3904,22154,No
+30,No,Research & Development,1311,Female,2,Laboratory Technician,Married,4627,23631,No
+36,No,Research & Development,1312,Female,3,Healthcare Representative,Married,7094,5747,No
+46,No,Human Resources,1314,Female,1,Human Resources,Single,3423,22957,No
+28,No,Research & Development,1315,Female,2,Laboratory Technician,Married,6674,16392,No
+50,No,Research & Development,1317,Female,4,Research Director,Married,16880,22422,Yes
+40,Yes,Sales,1318,Male,3,Sales Executive,Single,9094,17235,Yes
+52,Yes,Sales,1319,Male,3,Sales Executive,Single,8446,21534,Yes
+30,No,Research & Development,1321,Female,3,Manager,Married,11916,25927,Yes
+39,No,Research & Development,1322,Male,2,Manufacturing Director,Single,4534,13352,No
+31,No,Sales,1324,Female,3,Sales Executive,Divorced,9852,8935,Yes
+41,No,Sales,1329,Male,2,Sales Executive,Single,6151,22074,No
+31,Yes,Sales,1331,Female,1,Sales Representative,Single,2302,8319,Yes
+44,Yes,Research & Development,1333,Male,1,Laboratory Technician,Married,2362,14669,No
+42,No,Research & Development,1334,Male,4,Manager,Married,17861,26582,Yes
+55,No,Research & Development,1336,Female,5,Manager,Married,19187,6992,No
+56,No,Human Resources,1338,Male,5,Manager,Single,19717,4022,No
+40,No,Research & Development,1340,Male,1,Research Scientist,Divorced,3544,8532,No
+34,No,Research & Development,1344,Male,3,Healthcare Representative,Divorced,8500,5494,No
+40,No,Research & Development,1346,Male,2,Research Scientist,Single,4661,22455,No
+41,No,Sales,1349,Female,2,Sales Executive,Divorced,4103,4297,No
+35,No,Research & Development,1350,Male,2,Research Scientist,Single,4249,2690,Yes
+51,No,Human Resources,1352,Male,4,Manager,Divorced,14026,17588,Yes
+38,No,Sales,1355,Female,2,Sales Executive,Divorced,6893,19461,No
+34,No,Sales,1356,Female,2,Sales Executive,Single,6125,23553,No
+25,No,Research & Development,1358,Male,1,Laboratory Technician,Married,3669,9075,No
+58,Yes,Research & Development,1360,Female,3,Manufacturing Director,Married,10008,12023,Yes
+40,No,Research & Development,1361,Male,1,Laboratory Technician,Married,2387,6762,No
+36,No,Sales,1362,Female,2,Sales Executive,Married,4639,2261,No
+48,No,Research & Development,1363,Male,3,Manufacturing Director,Single,7898,18706,No
+27,No,Sales,1364,Female,1,Sales Representative,Married,2534,6527,No
+51,No,Research & Development,1367,Female,4,Manufacturing Director,Single,13142,24439,No
+18,No,Research & Development,1368,Female,1,Laboratory Technician,Single,1611,19305,No
+35,No,Research & Development,1369,Female,2,Laboratory Technician,Married,5363,10846,No
+27,No,Sales,1371,Male,2,Sales Executive,Single,5071,20392,No
+55,Yes,Sales,1372,Male,4,Sales Executive,Single,13695,9277,Yes
+56,No,Research & Development,1373,Male,4,Manufacturing Director,Married,13402,18235,Yes
+34,No,Research & Development,1374,Female,1,Research Scientist,Divorced,2029,15891,No
+40,No,Research & Development,1375,Female,2,Healthcare Representative,Divorced,6377,13888,No
+34,No,Research & Development,1377,Male,2,Laboratory Technician,Married,5429,17491,No
+31,Yes,Sales,1379,Female,1,Sales Representative,Single,2785,11882,No
+35,Yes,Sales,1380,Female,2,Sales Executive,Married,4614,23288,Yes
+38,No,Research & Development,1382,Male,1,Research Scientist,Divorced,2610,15748,No
+34,No,Research & Development,1383,Female,2,Healthcare Representative,Single,6687,6163,No
+28,No,Sales,1387,Male,2,Sales Executive,Married,4724,24232,No
+31,Yes,Research & Development,1389,Male,2,Manufacturing Director,Married,6179,21057,Yes
+39,No,Sales,1390,Male,2,Sales Executive,Married,6120,3567,Yes
+51,No,Sales,1391,Male,3,Sales Executive,Married,10596,15395,No
+41,No,Research & Development,1392,Female,2,Research Scientist,Divorced,5467,13953,Yes
+37,No,Research & Development,1394,Male,1,Research Scientist,Married,2996,5182,Yes
+33,No,Sales,1395,Male,2,Sales Executive,Married,9998,19293,No
+32,No,Sales,1396,Male,2,Sales Executive,Married,4078,20497,Yes
+39,No,Research & Development,1397,Male,3,Healthcare Representative,Married,10920,3449,No
+25,No,Sales,1399,Male,2,Sales Executive,Married,6232,12477,No
+52,No,Research & Development,1401,Female,4,Manufacturing Director,Married,13247,9731,Yes
+43,No,Research & Development,1402,Female,2,Research Scientist,Single,4081,20003,Yes
+27,No,Sales,1403,Female,2,Sales Executive,Married,5769,7100,Yes
+27,Yes,Research & Development,1405,Female,1,Research Scientist,Single,2394,25681,Yes
+26,No,Research & Development,1407,Male,1,Research Scientist,Single,3904,4050,No
+42,No,Human Resources,1408,Female,4,Manager,Married,16799,16616,No
+52,No,Research & Development,1409,Female,1,Laboratory Technician,Married,2950,17363,No
+37,No,Research & Development,1411,Female,1,Laboratory Technician,Single,3629,19106,No
+35,No,Research & Development,1412,Male,3,Manufacturing Director,Single,9362,19944,No
+25,No,Research & Development,1415,Male,1,Laboratory Technician,Married,3229,4910,No
+26,No,Research & Development,1417,Male,1,Laboratory Technician,Single,3578,23577,No
+29,No,Human Resources,1419,Male,3,Human Resources,Single,7988,9769,No
+49,Yes,Research & Development,1420,Male,2,Laboratory Technician,Single,4284,22710,No
+29,Yes,Research & Development,1421,Female,3,Healthcare Representative,Single,7553,22930,Yes
+54,No,Research & Development,1422,Female,4,Research Director,Single,17328,5652,No
+58,No,Research & Development,1423,Female,5,Research Director,Married,19701,22456,Yes
+55,No,Research & Development,1424,Male,4,Research Director,Divorced,14732,12414,No
+36,No,Sales,1425,Female,2,Sales Executive,Single,9278,20763,Yes
+31,Yes,Sales,1427,Female,1,Sales Representative,Single,1359,16154,No
+30,No,Sales,1428,Female,2,Sales Executive,Divorced,4779,12761,No
+31,No,Research & Development,1430,Female,4,Research Director,Single,16422,8847,No
+34,No,Research & Development,1431,Male,1,Research Scientist,Divorced,2996,20284,No
+31,Yes,Research & Development,1433,Female,1,Research Scientist,Single,1261,22262,No
+27,No,Research & Development,1434,Male,1,Laboratory Technician,Married,2099,7679,No
+36,No,Research & Development,1435,Male,2,Laboratory Technician,Single,5810,22604,No
+36,No,Sales,1436,Female,2,Sales Executive,Married,5647,13494,No
+47,No,Research & Development,1438,Male,1,Research Scientist,Married,3420,10205,No
+25,Yes,Sales,1439,Male,1,Sales Representative,Married,4400,15182,No
+37,No,Research & Development,1440,Male,1,Laboratory Technician,Single,3500,25470,No
+56,No,Research & Development,1441,Female,1,Research Scientist,Married,2066,10494,No
+47,No,Research & Development,1443,Female,4,Research Director,Married,17169,26703,No
+24,No,Sales,1445,Female,2,Sales Executive,Married,4162,15211,Yes
+32,No,Sales,1446,Male,2,Sales Executive,Married,9204,23343,No
+34,No,Research & Development,1447,Female,1,Laboratory Technician,Married,3294,3708,No
+41,No,Research & Development,1448,Male,1,Research Scientist,Married,2127,5561,Yes
+40,No,Research & Development,1449,Male,2,Laboratory Technician,Divorced,3975,23099,No
+31,No,Sales,1453,Male,3,Sales Executive,Divorced,10793,8386,No
+46,Yes,Sales,1457,Male,3,Sales Executive,Divorced,10096,15986,No
+39,Yes,Research & Development,1458,Female,1,Laboratory Technician,Single,3646,17181,Yes
+31,Yes,Research & Development,1459,Female,3,Manufacturing Director,Single,7446,8931,No
+45,No,Research & Development,1460,Male,3,Healthcare Representative,Divorced,10851,19863,Yes
+31,No,Human Resources,1461,Female,1,Human Resources,Single,2109,24609,No
+31,Yes,Research & Development,1464,Male,1,Laboratory Technician,Married,3722,21081,Yes
+45,No,Research & Development,1465,Male,3,Manufacturing Director,Married,9380,14720,Yes
+48,No,Sales,1466,Male,2,Sales Executive,Divorced,5486,24795,No
+34,Yes,Human Resources,1467,Female,1,Human Resources,Married,2742,3072,No
+40,No,Research & Development,1468,Male,3,Research Director,Divorced,13757,25178,No
+28,No,Sales,1469,Male,2,Sales Executive,Single,8463,23490,No
+44,No,Research & Development,1471,Male,1,Laboratory Technician,Single,3162,7973,No
+53,No,Research & Development,1472,Male,4,Research Director,Single,16598,19764,No
+49,No,Research & Development,1473,Male,2,Healthcare Representative,Married,6651,21534,No
+40,No,Research & Development,1474,Male,1,Research Scientist,Divorced,2345,8045,No
+44,No,Research & Development,1475,Male,1,Research Scientist,Single,3420,21158,No
+33,No,Sales,1477,Male,2,Sales Executive,Married,4373,17456,No
+34,No,Sales,1478,Male,2,Sales Executive,Single,4759,15891,No
+30,No,Sales,1479,Male,2,Sales Executive,Married,5301,2939,No
+42,No,Research & Development,1480,Female,1,Laboratory Technician,Single,3673,16458,No
+44,No,Sales,1481,Female,2,Sales Executive,Married,4768,9282,No
+30,No,Research & Development,1482,Male,1,Research Scientist,Divorced,1274,7152,No
+57,No,Research & Development,1483,Male,2,Research Scientist,Married,4900,2721,No
+49,No,Research & Development,1484,Male,3,Healthcare Representative,Divorced,10466,20948,No
+34,No,Research & Development,1485,Male,4,Research Director,Divorced,17007,11929,No
+28,Yes,Sales,1486,Male,1,Sales Representative,Married,2909,15747,No
+29,Yes,Sales,1487,Female,2,Sales Executive,Single,5765,17485,No
+34,Yes,Sales,1489,Female,2,Sales Executive,Single,4599,7815,Yes
+35,No,Sales,1492,Male,1,Sales Representative,Married,2404,16192,No
+24,Yes,Research & Development,1494,Male,1,Laboratory Technician,Single,3172,16998,Yes
+24,No,Sales,1495,Female,1,Sales Representative,Married,2033,7103,No
+44,No,Research & Development,1496,Male,3,Manufacturing Director,Single,10209,19719,Yes
+29,No,Sales,1497,Male,2,Sales Executive,Divorced,8620,23757,No
+30,No,Human Resources,1499,Male,1,Human Resources,Divorced,2064,15428,No
+55,No,Research & Development,1501,Male,2,Healthcare Representative,Married,4035,16143,Yes
+33,No,Research & Development,1502,Female,1,Laboratory Technician,Married,3838,8192,No
+47,No,Sales,1503,Female,2,Sales Executive,Married,4591,24200,Yes
+28,Yes,Research & Development,1504,Male,1,Laboratory Technician,Single,2561,5355,No
+28,No,Research & Development,1506,Male,1,Research Scientist,Divorced,1563,12530,No
+28,No,Sales,1507,Male,2,Sales Executive,Single,4898,11827,No
+49,No,Research & Development,1509,Female,2,Laboratory Technician,Married,4789,23070,No
+29,No,Research & Development,1513,Female,1,Laboratory Technician,Married,3180,4668,No
+28,No,Research & Development,1514,Male,2,Manufacturing Director,Married,6549,3173,No
+33,No,Research & Development,1515,Male,2,Healthcare Representative,Single,6388,22049,Yes
+32,No,Research & Development,1516,Male,3,Manager,Single,11244,21072,No
+54,No,Research & Development,1520,Female,4,Manager,Divorced,16032,24456,No
+29,Yes,Research & Development,1522,Male,1,Research Scientist,Single,2362,7568,No
+44,No,Research & Development,1523,Male,4,Research Director,Married,16328,22074,No
+39,No,Research & Development,1525,Female,3,Manufacturing Director,Single,8376,9150,No
+46,No,Sales,1527,Female,4,Manager,Married,16606,11380,No
+35,No,Research & Development,1529,Female,3,Healthcare Representative,Single,8606,21195,No
+23,No,Research & Development,1533,Male,2,Laboratory Technician,Single,2272,24812,No
+40,Yes,Research & Development,1534,Male,1,Laboratory Technician,Single,2018,21831,No
+34,No,Sales,1535,Male,3,Sales Executive,Married,7083,12288,Yes
+31,Yes,Research & Development,1537,Female,1,Research Scientist,Single,4084,4156,No
+50,No,Research & Development,1539,Male,4,Research Director,Single,14411,24450,Yes
+34,No,Sales,1541,Male,1,Sales Representative,Married,2308,4944,Yes
+42,No,Research & Development,1542,Male,1,Laboratory Technician,Married,4841,24052,No
+37,No,Research & Development,1543,Male,2,Research Scientist,Married,4285,3031,No
+29,No,Research & Development,1544,Female,2,Healthcare Representative,Married,9715,7288,No
+33,No,Research & Development,1545,Male,2,Manufacturing Director,Single,4320,24152,No
+45,No,Research & Development,1546,Male,1,Research Scientist,Married,2132,4585,No
+42,No,Research & Development,1547,Male,3,Healthcare Representative,Married,10124,18611,Yes
+40,No,Sales,1548,Male,2,Sales Executive,Married,5473,19345,No
+33,No,Research & Development,1549,Male,2,Laboratory Technician,Married,5207,22949,Yes
+40,No,Human Resources,1550,Male,4,Manager,Single,16437,17381,Yes
+24,No,Research & Development,1551,Male,1,Laboratory Technician,Divorced,2296,10036,No
+40,No,Research & Development,1552,Male,2,Healthcare Representative,Divorced,4069,8841,Yes
+45,No,Research & Development,1553,Male,3,Healthcare Representative,Divorced,7441,20933,No
+35,No,Sales,1554,Female,1,Sales Representative,Married,2430,26204,No
+32,No,Research & Development,1555,Female,2,Research Scientist,Married,5878,15624,No
+36,No,Sales,1556,Male,1,Sales Representative,Single,2644,17001,Yes
+48,No,Sales,1557,Female,2,Sales Executive,Divorced,6439,13693,No
+29,No,Research & Development,1558,Male,1,Research Scientist,Married,2451,22376,No
+33,No,Sales,1560,Male,2,Sales Executive,Married,6392,10589,No
+30,Yes,Sales,1562,Male,2,Sales Executive,Married,9714,5323,No
+38,No,Human Resources,1563,Male,2,Human Resources,Married,6077,14814,No
+35,No,Research & Development,1564,Male,1,Laboratory Technician,Single,2450,21731,No
+30,No,Sales,1568,Male,3,Sales Executive,Married,9250,17799,No
+35,Yes,Research & Development,1569,Female,1,Laboratory Technician,Divorced,2074,26619,Yes
+53,Yes,Research & Development,1572,Female,3,Manufacturing Director,Married,10169,14618,No
+38,Yes,Research & Development,1573,Male,2,Manufacturing Director,Married,4855,7653,No
+32,No,Research & Development,1574,Male,2,Research Scientist,Married,4087,25174,No
+48,No,Research & Development,1576,Female,1,Research Scientist,Married,2367,16530,No
+34,No,Research & Development,1577,Male,1,Research Scientist,Single,2972,22061,No
+55,No,Sales,1578,Male,5,Manager,Married,19586,23037,No
+34,No,Research & Development,1580,Male,2,Research Scientist,Married,5484,13008,No
+26,No,Research & Development,1581,Female,1,Research Scientist,Married,2061,11133,No
+38,No,Sales,1582,Male,2,Sales Executive,Married,9924,12355,No
+38,No,Sales,1583,Female,2,Sales Executive,Single,4198,16379,No
+36,No,Sales,1585,Female,2,Sales Executive,Single,6815,21447,No
+29,No,Research & Development,1586,Male,1,Laboratory Technician,Single,4723,16213,Yes
+35,No,Research & Development,1587,Female,2,Healthcare Representative,Single,6142,4223,Yes
+39,No,Sales,1588,Male,3,Sales Executive,Married,8237,4658,No
+29,No,Research & Development,1590,Male,2,Healthcare Representative,Divorced,8853,24483,No
+50,No,Sales,1591,Male,5,Manager,Married,19331,19519,Yes
+23,No,Research & Development,1592,Male,1,Research Scientist,Married,2073,12826,No
+36,No,Research & Development,1594,Male,2,Laboratory Technician,Married,5562,19711,Yes
+42,No,Research & Development,1595,Male,5,Manager,Single,19613,26362,No
+35,No,Research & Development,1596,Male,2,Laboratory Technician,Married,3407,25348,No
+34,No,Research & Development,1597,Male,2,Healthcare Representative,Married,5063,15332,No
+40,No,Sales,1598,Female,2,Sales Executive,Married,4639,11262,No
+43,No,Research & Development,1599,Male,1,Laboratory Technician,Divorced,4876,5855,No
+35,No,Research & Development,1601,Male,1,Laboratory Technician,Married,2690,7713,No
+46,No,Sales,1602,Male,4,Manager,Single,17567,3156,No
+28,Yes,Research & Development,1604,Male,1,Laboratory Technician,Married,2408,7324,Yes
+22,No,Research & Development,1605,Female,1,Research Scientist,Married,2814,10293,Yes
+50,No,Research & Development,1606,Male,4,Healthcare Representative,Married,11245,20689,Yes
+32,No,Research & Development,1607,Female,1,Research Scientist,Married,3312,18783,No
+44,No,Research & Development,1608,Female,5,Research Director,Divorced,19049,3549,Yes
+30,No,Research & Development,1609,Male,1,Research Scientist,Married,2141,5348,No
+45,No,Research & Development,1611,Female,2,Laboratory Technician,Single,5769,23447,Yes
+45,No,Sales,1612,Male,2,Sales Executive,Married,4385,24162,No
+31,No,Sales,1613,Male,2,Sales Executive,Single,5332,21602,No
+36,No,Research & Development,1614,Female,2,Manufacturing Director,Married,4663,12421,Yes
+34,No,Research & Development,1615,Male,2,Manufacturing Director,Divorced,4724,17000,No
+49,No,Research & Development,1617,Female,1,Laboratory Technician,Married,3211,22102,No
+39,No,Research & Development,1618,Male,2,Manufacturing Director,Married,5377,3835,No
+27,No,Research & Development,1619,Male,1,Laboratory Technician,Divorced,4066,16290,No
+35,No,Research & Development,1621,Male,2,Research Scientist,Married,5208,26312,No
+28,No,Research & Development,1622,Female,2,Manufacturing Director,Divorced,4877,20460,No
+21,No,Research & Development,1623,Male,1,Research Scientist,Single,3117,26009,No
+18,Yes,Sales,1624,Female,1,Sales Representative,Single,1569,18420,Yes
+47,No,Human Resources,1625,Female,5,Manager,Married,19658,5220,No
+39,No,Research & Development,1627,Male,2,Laboratory Technician,Divorced,3069,10302,No
+40,No,Research & Development,1628,Female,3,Manufacturing Director,Married,10435,25800,No
+35,No,Research & Development,1630,Female,2,Healthcare Representative,Married,4148,12250,No
+37,No,Research & Development,1631,Male,2,Manufacturing Director,Married,5768,26493,No
+39,No,Research & Development,1633,Female,2,Manufacturing Director,Single,5042,3140,No
+45,No,Research & Development,1635,Female,2,Manufacturing Director,Divorced,5770,5388,No
+38,No,Research & Development,1638,Female,3,Manufacturing Director,Married,7756,14199,Yes
+35,Yes,Sales,1639,Male,3,Sales Executive,Married,10306,21530,No
+37,No,Research & Development,1640,Female,1,Research Scientist,Married,3936,9953,No
+40,No,Research & Development,1641,Female,3,Manufacturing Director,Single,7945,19948,Yes
+44,No,Human Resources,1642,Male,2,Human Resources,Married,5743,10503,Yes
+48,No,Research & Development,1644,Male,4,Manager,Married,15202,5602,No
+35,Yes,Sales,1645,Male,2,Sales Executive,Divorced,5440,22098,Yes
+24,No,Research & Development,1646,Female,1,Research Scientist,Single,3760,17218,Yes
+27,No,Research & Development,1647,Female,1,Research Scientist,Married,3517,22490,No
+27,No,Research & Development,1648,Male,1,Research Scientist,Single,2580,6297,No
+40,Yes,Research & Development,1649,Male,1,Laboratory Technician,Single,2166,3339,Yes
+29,No,Sales,1650,Male,2,Sales Executive,Single,5869,23413,No
+36,No,Research & Development,1651,Female,3,Healthcare Representative,Married,8008,22792,No
+25,No,Research & Development,1653,Male,2,Manufacturing Director,Divorced,5206,4973,No
+39,No,Research & Development,1654,Male,2,Manufacturing Director,Married,5295,7693,No
+49,No,Research & Development,1655,Female,4,Research Director,Married,16413,3498,No
+50,No,Research & Development,1656,Female,3,Research Director,Divorced,13269,21981,No
+20,No,Sales,1657,Female,1,Sales Representative,Single,2783,13251,No
+34,No,Research & Development,1658,Female,2,Research Scientist,Divorced,5433,19332,No
+36,No,Research & Development,1659,Male,1,Laboratory Technician,Single,2013,10950,No
+49,No,Research & Development,1661,Female,4,Healthcare Representative,Married,13966,11652,Yes
+36,No,Research & Development,1662,Female,2,Manufacturing Director,Married,4374,15411,No
+36,No,Research & Development,1664,Male,2,Healthcare Representative,Divorced,6842,26308,No
+54,No,Research & Development,1665,Female,4,Manager,Married,17426,18685,No
+43,No,Research & Development,1666,Male,4,Research Director,Married,17603,3525,No
+35,Yes,Sales,1667,Male,2,Sales Executive,Single,4581,10414,Yes
+38,No,Research & Development,1668,Male,2,Research Scientist,Married,4735,9867,No
+29,No,Sales,1669,Male,2,Sales Executive,Divorced,4187,3356,Yes
+33,No,Sales,1670,Male,2,Sales Executive,Divorced,5505,3921,No
+32,No,Research & Development,1671,Male,2,Research Scientist,Divorced,5470,25518,No
+31,No,Sales,1673,Female,2,Sales Executive,Married,5476,22589,No
+49,No,Research & Development,1674,Female,1,Laboratory Technician,Divorced,2587,24941,Yes
+38,No,Research & Development,1675,Female,1,Laboratory Technician,Single,2440,23826,No
+47,No,Sales,1676,Female,4,Manager,Divorced,15972,21086,No
+49,No,Research & Development,1677,Male,4,Manager,Single,15379,22384,No
+41,No,Sales,1678,Male,3,Sales Executive,Single,7082,11591,Yes
+20,No,Sales,1680,Male,1,Sales Representative,Single,2728,21082,No
+33,No,Sales,1681,Female,2,Sales Executive,Divorced,5368,16130,Yes
+36,No,Research & Development,1682,Male,2,Healthcare Representative,Married,5347,7419,No
+44,No,Human Resources,1683,Female,1,Human Resources,Divorced,3195,4167,Yes
+23,Yes,Research & Development,1684,Male,1,Laboratory Technician,Single,3989,20586,Yes
+38,No,Research & Development,1687,Female,1,Laboratory Technician,Married,3306,26176,No
+53,No,Research & Development,1689,Male,3,Healthcare Representative,Married,7005,3458,No
+48,Yes,Sales,1691,Female,1,Sales Representative,Married,2655,11740,Yes
+32,Yes,Research & Development,1692,Male,1,Laboratory Technician,Single,1393,24852,No
+26,No,Research & Development,1693,Male,1,Laboratory Technician,Single,2570,11925,No
+55,No,Research & Development,1694,Male,1,Research Scientist,Divorced,3537,23737,No
+34,No,Research & Development,1696,Male,2,Laboratory Technician,Married,3986,11912,No
+60,No,Research & Development,1697,Male,3,Healthcare Representative,Divorced,10883,20467,No
+33,No,Research & Development,1698,Male,1,Laboratory Technician,Married,2028,13637,No
+37,No,Sales,1700,Male,2,Sales Executive,Divorced,9525,7677,No
+34,No,Research & Development,1701,Female,1,Research Scientist,Married,2929,20338,No
+23,Yes,Sales,1702,Male,1,Sales Representative,Divorced,2275,25103,Yes
+44,No,Research & Development,1703,Female,3,Healthcare Representative,Married,7879,14810,Yes
+35,No,Research & Development,1704,Male,1,Research Scientist,Single,4930,13970,Yes
+43,No,Sales,1706,Male,2,Sales Executive,Married,7847,6069,Yes
+24,No,Research & Development,1707,Male,1,Research Scientist,Married,4401,17616,No
+41,No,Sales,1708,Male,3,Sales Executive,Single,9241,15869,No
+29,No,Research & Development,1709,Female,1,Laboratory Technician,Married,2974,25412,No
+36,No,Sales,1710,Female,2,Sales Representative,Single,4502,7439,No
+45,No,Research & Development,1712,Male,3,Healthcare Representative,Married,10748,3395,No
+24,Yes,Human Resources,1714,Male,1,Human Resources,Married,1555,11585,No
+47,Yes,Sales,1716,Male,4,Sales Executive,Married,12936,24164,No
+26,No,Research & Development,1718,Male,1,Laboratory Technician,Married,2305,6217,No
+45,No,Research & Development,1719,Female,4,Research Director,Single,16704,17119,No
+32,No,Research & Development,1720,Male,1,Research Scientist,Married,3433,17360,No
+31,No,Research & Development,1721,Male,1,Laboratory Technician,Married,3477,18103,No
+41,No,Human Resources,1722,Male,2,Human Resources,Married,6430,20794,No
+40,No,Research & Development,1724,Female,2,Manufacturing Director,Married,6516,5041,Yes
+24,No,Research & Development,1725,Male,1,Laboratory Technician,Divorced,3907,3622,No
+46,No,Research & Development,1727,Male,2,Healthcare Representative,Single,5562,9697,No
+35,No,Research & Development,1728,Male,2,Manufacturing Director,Married,6883,5151,No
+30,No,Research & Development,1729,Male,1,Research Scientist,Married,2862,3811,No
+47,No,Sales,1731,Male,2,Sales Executive,Married,4978,3536,No
+46,No,Sales,1732,Male,3,Sales Executive,Divorced,10368,5596,Yes
+36,Yes,Sales,1733,Male,2,Sales Executive,Divorced,6134,8658,Yes
+32,Yes,Sales,1734,Male,2,Sales Executive,Single,6735,12147,No
+23,No,Research & Development,1735,Female,1,Laboratory Technician,Single,3295,12862,No
+31,No,Research & Development,1736,Female,2,Manufacturing Director,Single,5238,6670,No
+39,No,Research & Development,1737,Male,2,Laboratory Technician,Married,6472,8989,Yes
+32,No,Sales,1739,Male,3,Sales Executive,Married,9610,3840,No
+40,No,Sales,1740,Male,5,Manager,Single,19833,4349,No
+45,No,Human Resources,1744,Female,3,Human Resources,Married,9756,6595,No
+30,No,Research & Development,1745,Female,1,Research Scientist,Single,4968,26427,No
+24,No,Human Resources,1746,Male,1,Human Resources,Married,2145,2097,No
+30,Yes,Human Resources,1747,Female,1,Human Resources,Divorced,2180,9732,No
+31,No,Sales,1749,Male,2,Sales Executive,Married,8346,20943,No
+27,No,Research & Development,1751,Female,1,Research Scientist,Single,3445,6152,No
+29,Yes,Sales,1752,Female,1,Sales Representative,Single,2760,14630,No
+29,No,Research & Development,1753,Male,2,Healthcare Representative,Single,6294,23060,Yes
+30,No,Sales,1754,Male,3,Sales Executive,Divorced,7140,3088,No
+34,No,Research & Development,1755,Male,1,Research Scientist,Married,2932,5586,Yes
+33,No,Sales,1756,Female,2,Sales Executive,Single,5147,10697,No
+49,No,Sales,1757,Female,2,Sales Executive,Single,4507,8191,No
+33,Yes,Sales,1758,Female,3,Sales Executive,Single,8564,10092,Yes
+38,No,Research & Development,1760,Female,1,Laboratory Technician,Married,2468,15963,No
+31,Yes,Sales,1761,Male,3,Sales Executive,Married,8161,19002,No
+29,No,Research & Development,1762,Female,1,Research Scientist,Divorced,2109,10007,No
+30,No,Research & Development,1763,Male,2,Healthcare Representative,Married,5294,9128,No
+32,No,Research & Development,1764,Male,1,Research Scientist,Single,2718,17674,No
+38,No,Research & Development,1766,Male,2,Healthcare Representative,Married,5811,24539,Yes
+43,Yes,Research & Development,1767,Male,1,Research Scientist,Married,2437,15587,Yes
+42,No,Research & Development,1768,Male,1,Laboratory Technician,Divorced,2766,8952,No
+55,No,Research & Development,1770,Male,5,Research Director,Married,19038,19805,No
+33,No,Research & Development,1771,Male,2,Research Scientist,Divorced,3055,6194,No
+41,No,Research & Development,1772,Male,1,Laboratory Technician,Divorced,2289,20520,No
+34,No,Sales,1774,Male,2,Sales Executive,Divorced,4001,12313,Yes
+53,No,Research & Development,1775,Female,4,Manufacturing Director,Married,12965,22308,Yes
+43,No,Human Resources,1778,Male,1,Human Resources,Single,3539,5033,No
+34,No,Sales,1779,Female,2,Sales Executive,Single,6029,25353,No
+21,Yes,Sales,1780,Male,1,Sales Representative,Single,2679,4567,No
+38,No,Research & Development,1782,Female,1,Laboratory Technician,Married,3702,16376,No
+22,Yes,Research & Development,1783,Female,1,Laboratory Technician,Married,2398,15999,Yes
+31,No,Sales,1784,Female,2,Sales Executive,Married,5468,13402,No
+51,No,Research & Development,1786,Female,3,Manager,Married,13116,22984,No
+37,No,Sales,1787,Male,2,Sales Executive,Married,4189,8800,No
+46,No,Research & Development,1789,Male,5,Research Director,Divorced,19328,14218,Yes
+36,No,Research & Development,1790,Male,3,Healthcare Representative,Married,8321,25949,Yes
+44,Yes,Research & Development,1792,Male,1,Research Scientist,Divorced,2342,11092,Yes
+37,No,Human Resources,1794,Male,2,Human Resources,Divorced,4071,12832,No
+35,Yes,Sales,1797,Male,2,Sales Executive,Single,5813,13492,Yes
+33,No,Research & Development,1798,Male,1,Research Scientist,Married,3143,6076,No
+28,No,Research & Development,1799,Male,1,Research Scientist,Married,2044,5531,No
+39,No,Research & Development,1800,Male,3,Research Director,Single,13464,7914,No
+46,No,Sales,1801,Male,2,Sales Executive,Single,7991,25166,No
+40,No,Research & Development,1802,Female,1,Laboratory Technician,Married,3377,25605,No
+42,No,Research & Development,1803,Male,2,Healthcare Representative,Married,5538,5696,No
+35,No,Research & Development,1804,Male,2,Manufacturing Director,Divorced,5762,24442,No
+38,No,Human Resources,1805,Male,1,Human Resources,Divorced,2592,7129,No
+34,Yes,Research & Development,1807,Male,2,Laboratory Technician,Married,5346,6208,No
+37,Yes,Research & Development,1809,Male,2,Manufacturing Director,Single,4213,4992,No
+39,No,Sales,1812,Male,2,Sales Executive,Divorced,4127,19188,No
+43,No,Research & Development,1813,Male,1,Research Scientist,Single,2438,24978,No
+41,No,Research & Development,1814,Male,2,Healthcare Representative,Single,6870,15530,No
+41,No,Sales,1815,Female,3,Sales Executive,Divorced,10447,26458,Yes
+30,No,Research & Development,1816,Female,3,Manufacturing Director,Single,9667,2739,No
+26,Yes,Human Resources,1818,Female,1,Human Resources,Married,2148,6889,Yes
+46,Yes,Research & Development,1821,Female,2,Healthcare Representative,Married,8926,10842,No
+40,No,Research & Development,1822,Female,2,Healthcare Representative,Divorced,6513,9060,No
+34,No,Sales,1823,Male,2,Sales Executive,Married,6799,22128,No
+58,No,Sales,1824,Male,4,Manager,Divorced,16291,22577,No
+35,No,Research & Development,1826,Male,1,Laboratory Technician,Married,2705,9696,No
+47,No,Research & Development,1827,Female,3,Manufacturing Director,Divorced,10333,19271,Yes
+40,No,Research & Development,1829,Female,2,Healthcare Representative,Divorced,4448,10748,No
+54,No,Research & Development,1830,Female,2,Research Scientist,Married,6854,15696,No
+31,No,Sales,1833,Female,3,Sales Executive,Married,9637,8277,No
+28,No,Research & Development,1834,Female,1,Research Scientist,Married,3591,12719,No
+38,No,Sales,1835,Female,2,Sales Representative,Married,5405,4244,Yes
+26,No,Sales,1836,Male,2,Sales Executive,Single,4684,9125,No
+58,No,Research & Development,1837,Male,4,Research Director,Married,15787,21624,Yes
+18,No,Research & Development,1839,Female,1,Research Scientist,Single,1514,8018,No
+31,Yes,Human Resources,1842,Male,1,Human Resources,Married,2956,21495,No
+29,Yes,Human Resources,1844,Male,1,Human Resources,Divorced,2335,3157,Yes
+45,No,Sales,1845,Female,2,Sales Executive,Married,5154,19665,No
+36,No,Research & Development,1847,Female,2,Research Scientist,Married,6962,19573,Yes
+43,No,Sales,1849,Male,2,Sales Executive,Married,5675,19246,No
+27,No,Research & Development,1850,Female,1,Laboratory Technician,Single,2379,19826,Yes
+29,No,Research & Development,1852,Male,1,Laboratory Technician,Married,3812,7003,No
+32,No,Sales,1853,Male,2,Sales Executive,Single,4648,26075,No
+42,No,Research & Development,1854,Male,1,Research Scientist,Married,2936,6161,No
+47,No,Research & Development,1856,Female,1,Laboratory Technician,Single,2105,5411,No
+46,No,Research & Development,1857,Male,3,Manufacturing Director,Divorced,8578,19989,No
+28,No,Human Resources,1858,Male,1,Human Resources,Divorced,2706,10494,No
+29,No,Research & Development,1859,Male,2,Healthcare Representative,Divorced,6384,21143,No
+42,No,Research & Development,1860,Male,1,Laboratory Technician,Single,3968,13624,No
+32,Yes,Sales,1862,Male,2,Sales Executive,Single,9907,26186,Yes
+46,No,Sales,1863,Female,4,Sales Executive,Divorced,13225,7739,No
+27,No,Sales,1864,Female,2,Sales Representative,Married,3540,7018,No
+29,No,Human Resources,1865,Male,1,Human Resources,Married,2804,15434,No
+43,No,Research & Development,1866,Female,5,Manager,Married,19392,22539,No
+48,No,Research & Development,1867,Male,5,Research Director,Married,19665,13583,No
+29,Yes,Research & Development,1868,Male,1,Research Scientist,Single,2439,14753,Yes
+46,Yes,Sales,1869,Female,3,Sales Executive,Married,7314,14011,No
+27,No,Research & Development,1870,Female,1,Research Scientist,Married,4774,23844,No
+39,No,Research & Development,1871,Male,2,Research Scientist,Divorced,3902,5141,No
+55,No,Research & Development,1873,Male,1,Research Scientist,Married,2662,7975,No
+28,No,Sales,1875,Female,1,Sales Representative,Married,2856,3692,No
+30,Yes,Sales,1876,Male,1,Sales Representative,Single,1081,16019,No
+22,Yes,Research & Development,1878,Male,1,Research Scientist,Single,2472,26092,Yes
+36,No,Sales,1880,Female,2,Sales Executive,Married,5673,6060,Yes
+31,No,Research & Development,1881,Male,2,Laboratory Technician,Divorced,4197,18624,No
+34,No,Sales,1882,Male,3,Sales Executive,Married,9713,24444,Yes
+29,No,Research & Development,1883,Male,1,Laboratory Technician,Single,2062,19384,No
+37,No,Research & Development,1885,Male,2,Research Scientist,Married,4284,13588,Yes
+35,No,Research & Development,1886,Female,2,Manufacturing Director,Married,4788,25388,Yes
+45,No,Research & Development,1888,Female,2,Manufacturing Director,Married,5906,23888,No
+36,No,Human Resources,1890,Male,2,Human Resources,Single,3886,4223,No
+40,No,Research & Development,1892,Male,4,Manager,Divorced,16823,18991,No
+26,No,Research & Development,1893,Female,1,Research Scientist,Married,2933,14908,Yes
+27,No,Sales,1898,Female,2,Sales Executive,Single,6500,26997,No
+48,No,Research & Development,1900,Female,4,Manager,Divorced,17174,2437,No
+44,No,Research & Development,1903,Male,2,Healthcare Representative,Married,5033,9364,No
+34,Yes,Research & Development,1905,Male,1,Research Scientist,Married,2307,14460,Yes
+56,Yes,Research & Development,1907,Male,1,Laboratory Technician,Single,2587,10261,No
+36,No,Sales,1908,Male,2,Sales Executive,Married,5507,16822,No
+41,No,Sales,1909,Female,2,Sales Executive,Married,4393,26841,No
+42,No,Research & Development,1911,Male,3,Research Director,Married,13348,14842,No
+31,No,Sales,1912,Female,2,Sales Executive,Divorced,6583,20115,Yes
+34,No,Sales,1915,Female,2,Sales Executive,Married,8103,16495,Yes
+31,No,Research & Development,1916,Female,1,Laboratory Technician,Divorced,3978,16031,No
+26,No,Research & Development,1918,Male,1,Laboratory Technician,Married,2544,7102,No
+45,No,Research & Development,1922,Male,2,Healthcare Representative,Single,5399,14511,No
+33,No,Sales,1924,Male,2,Sales Executive,Single,5487,10410,No
+28,No,Sales,1927,Male,2,Sales Executive,Married,6834,19255,Yes
+29,Yes,Sales,1928,Male,1,Sales Representative,Single,1091,10642,No
+39,No,Sales,1929,Female,2,Sales Executive,Married,5736,3987,No
+27,No,Research & Development,1931,Male,1,Research Scientist,Married,2226,6073,No
+34,No,Research & Development,1932,Male,2,Research Scientist,Married,5747,26496,Yes
+28,Yes,Sales,1933,Female,2,Sales Executive,Single,9854,23352,Yes
+47,No,Research & Development,1934,Male,2,Research Scientist,Married,5467,2125,No
+56,No,Sales,1935,Female,2,Sales Executive,Married,5380,20328,No
+39,No,Research & Development,1936,Male,2,Manufacturing Director,Married,5151,12315,No
+38,No,Research & Development,1937,Female,2,Research Scientist,Divorced,2133,18115,Yes
+58,No,Sales,1938,Female,4,Manager,Married,17875,11761,Yes
+32,Yes,Research & Development,1939,Female,1,Research Scientist,Single,2432,15318,Yes
+38,No,Research & Development,1940,Male,1,Research Scientist,Divorced,4771,14293,No
+49,No,Research & Development,1941,Male,5,Research Director,Married,19161,13738,No
+42,No,Sales,1943,Male,2,Sales Executive,Divorced,5087,2900,Yes
+27,Yes,Human Resources,1944,Female,1,Human Resources,Married,2863,19555,No
+35,No,Sales,1945,Male,2,Sales Executive,Married,5561,15975,No
+28,No,Research & Development,1947,Male,1,Research Scientist,Single,2144,2122,No
+31,No,Research & Development,1948,Male,1,Research Scientist,Divorced,3065,3995,Yes
+36,No,Research & Development,1949,Male,1,Laboratory Technician,Married,2810,9238,No
+34,No,Sales,1950,Male,3,Sales Executive,Single,9888,6770,No
+34,No,Sales,1951,Male,3,Sales Executive,Divorced,8628,22914,No
+26,No,Research & Development,1952,Male,1,Laboratory Technician,Single,2867,20006,No
+29,No,Research & Development,1954,Male,2,Healthcare Representative,Married,5373,6225,No
+32,No,Research & Development,1955,Female,2,Healthcare Representative,Divorced,6667,16542,No
+31,No,Research & Development,1956,Male,2,Research Scientist,Married,5003,5771,No
+28,Yes,Research & Development,1960,Male,1,Laboratory Technician,Divorced,2367,18779,No
+38,No,Sales,1961,Male,1,Sales Representative,Single,2858,11473,No
+35,No,Sales,1962,Female,2,Sales Executive,Married,5204,13586,Yes
+27,No,Sales,1965,Male,2,Sales Executive,Single,4105,5099,No
+32,No,Research & Development,1966,Male,2,Manufacturing Director,Single,9679,10138,No
+31,Yes,Sales,1967,Male,2,Sales Executive,Married,5617,21075,Yes
+53,Yes,Sales,1968,Male,3,Sales Executive,Single,10448,5843,Yes
+54,No,Research & Development,1969,Female,2,Research Scientist,Married,2897,22474,No
+33,No,Research & Development,1970,Male,2,Healthcare Representative,Divorced,5968,18079,No
+43,No,Research & Development,1971,Male,3,Healthcare Representative,Married,7510,16873,No
+38,No,Human Resources,1972,Male,1,Human Resources,Married,2991,5224,Yes
+55,No,Human Resources,1973,Male,5,Manager,Married,19636,25811,Yes
+31,No,Research & Development,1974,Female,1,Laboratory Technician,Divorced,1129,17536,Yes
+39,No,Sales,1975,Male,4,Sales Executive,Single,13341,25098,No
+42,No,Research & Development,1976,Male,2,Research Scientist,Single,4332,14811,No
+31,No,Research & Development,1979,Female,3,Research Director,Married,11031,26862,No
+54,No,Research & Development,1980,Female,2,Manufacturing Director,Single,4440,25198,Yes
+24,No,Research & Development,1981,Male,2,Healthcare Representative,Single,4617,14120,No
+23,No,Research & Development,1982,Male,1,Laboratory Technician,Single,2647,13672,No
+40,No,Research & Development,1985,Female,2,Laboratory Technician,Married,6323,26849,No
+40,No,Sales,1986,Female,2,Sales Executive,Married,5677,4258,No
+25,No,Human Resources,1987,Female,1,Human Resources,Married,2187,19655,No
+30,No,Research & Development,1989,Male,1,Laboratory Technician,Married,3748,4077,No
+25,No,Research & Development,1992,Male,1,Laboratory Technician,Divorced,3977,7298,Yes
+47,No,Research & Development,1993,Male,3,Healthcare Representative,Single,8633,13084,No
+33,No,Research & Development,1994,Male,1,Laboratory Technician,Divorced,2008,20439,No
+38,No,Sales,1995,Male,2,Sales Executive,Married,4440,7636,No
+31,No,Sales,1996,Male,1,Sales Representative,Married,3067,6393,No
+38,No,Research & Development,1997,Male,2,Manufacturing Director,Married,5321,14284,No
+42,No,Research & Development,1998,Male,2,Research Scientist,Divorced,5410,11189,Yes
+41,No,Research & Development,1999,Male,1,Research Scientist,Married,2782,21412,No
+47,No,Research & Development,2000,Female,3,Research Director,Married,11957,17231,No
+35,No,Research & Development,2003,Male,1,Laboratory Technician,Married,2660,20232,Yes
+22,No,Research & Development,2007,Male,1,Research Scientist,Single,3375,17624,No
+35,No,Research & Development,2008,Male,2,Research Scientist,Single,5098,18698,No
+33,No,Research & Development,2009,Female,2,Healthcare Representative,Married,4878,21653,Yes
+32,No,Research & Development,2010,Female,1,Laboratory Technician,Single,2837,15919,No
+40,No,Research & Development,2012,Male,1,Laboratory Technician,Married,2406,4060,No
+32,No,Sales,2013,Male,1,Sales Representative,Married,2269,18024,No
+39,No,Research & Development,2014,Male,2,Research Scientist,Single,4108,5340,No
+38,No,Research & Development,2015,Female,3,Research Director,Married,13206,3376,No
+32,No,Sales,2016,Female,3,Sales Executive,Married,10422,24032,No
+37,No,Research & Development,2017,Female,3,Research Director,Married,13744,15471,Yes
+25,No,Sales,2018,Female,2,Sales Executive,Divorced,4907,13684,Yes
+52,No,Sales,2019,Male,1,Sales Representative,Divorced,3482,19788,No
+44,No,Research & Development,2020,Male,1,Research Scientist,Single,2436,13422,Yes
+21,No,Sales,2021,Male,1,Sales Representative,Single,2380,25479,Yes
+39,No,Research & Development,2022,Male,5,Manager,Single,19431,15302,No
+23,Yes,Sales,2023,Male,1,Sales Representative,Married,1790,26956,No
+36,No,Sales,2024,Female,3,Sales Executive,Married,7644,12695,No
+36,No,Research & Development,2025,Female,2,Manufacturing Director,Divorced,5131,9192,No
+56,No,Research & Development,2026,Male,2,Healthcare Representative,Divorced,6306,26236,No
+29,Yes,Research & Development,2027,Male,1,Research Scientist,Married,4787,26124,Yes
+42,No,Research & Development,2031,Male,5,Manager,Married,18880,17312,No
+56,Yes,Research & Development,2032,Male,1,Laboratory Technician,Married,2339,3666,No
+41,No,Research & Development,2034,Female,4,Manufacturing Director,Married,13570,5640,No
+34,No,Sales,2035,Female,2,Sales Executive,Married,6712,8978,No
+36,No,Sales,2036,Male,2,Sales Executive,Divorced,5406,10436,No
+41,No,Sales,2037,Male,2,Sales Executive,Divorced,8938,12227,No
+32,No,Research & Development,2038,Male,1,Research Scientist,Single,2439,11288,No
+35,No,Human Resources,2040,Female,3,Human Resources,Single,8837,16642,Yes
+38,No,Sales,2041,Female,2,Sales Executive,Married,5343,5982,No
+50,Yes,Sales,2044,Male,2,Sales Executive,Divorced,6728,14255,No
+36,No,Sales,2045,Female,2,Sales Executive,Married,6652,14369,No
+45,No,Sales,2046,Female,2,Sales Executive,Single,4850,23333,No
+40,No,Research & Development,2048,Male,1,Research Scientist,Single,2809,2725,No
+35,No,Research & Development,2049,Male,2,Healthcare Representative,Married,5689,24594,Yes
+40,No,Research & Development,2051,Female,1,Research Scientist,Married,2001,12549,No
+35,No,Research & Development,2052,Female,1,Research Scientist,Married,2977,8952,No
+29,No,Research & Development,2053,Male,2,Laboratory Technician,Married,4025,23679,Yes
+29,No,Research & Development,2054,Female,1,Research Scientist,Single,3785,8489,No
+50,Yes,Sales,2055,Male,3,Sales Executive,Divorced,10854,16586,Yes
+39,No,Sales,2056,Female,4,Sales Executive,Married,12031,8828,No
+31,No,Research & Development,2057,Male,2,Manufacturing Director,Single,9936,3787,No
+26,No,Sales,2060,Female,1,Sales Representative,Single,2966,21378,No
+36,No,Research & Development,2061,Male,2,Laboratory Technician,Married,2571,12290,No
+39,No,Research & Development,2062,Male,3,Healthcare Representative,Married,9991,21457,No
+27,No,Research & Development,2064,Male,2,Manufacturing Director,Married,6142,5174,Yes
+49,No,Sales,2065,Male,2,Sales Executive,Married,5390,13243,No
+34,No,Research & Development,2068,Male,2,Laboratory Technician,Married,4404,10228,No
