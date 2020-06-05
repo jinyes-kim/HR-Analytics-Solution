@@ -1,11 +1,7 @@
 import time
 import user
 import employee
-from custom_module import search
-from custom_module import statistic
-from custom_module import view
-from custom_module import login
-from custom_module import load
+from custom_module import *
 import matplotlib.pyplot as plt
 
 # DB & data load
