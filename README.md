@@ -3,7 +3,8 @@
 - Human resource Analysis
 - comparative analysis - between Attrition employee and Not Attrition employee
 - predict employees at risk of attrition
-
+　
+ 　
 # data-set - IBM HR data-set  
 - reference - https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset 
 
