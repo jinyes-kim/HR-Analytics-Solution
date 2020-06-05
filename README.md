@@ -1,5 +1,3 @@
-# python-toy-Project in Calculation programming class 
-
 # HR Analytics Solution
 
 # data-set - IBM HR data-set  
