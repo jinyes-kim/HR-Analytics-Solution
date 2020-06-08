@@ -5,7 +5,7 @@
 - predict employees at risk of attrition
 　
  
-### data-set - IBM HR data-set  
+### data: IBM HR data
 - reference - https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset 
 
 　
