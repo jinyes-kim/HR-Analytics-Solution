@@ -1,6 +1,6 @@
 # HR Analytics Solution
 ### description
-- Human resource Analysis
+- Human Resource Analysis Solution
 - comparative analysis - between Attrition employee and Not Attrition employee
 - predict employees at risk of attrition
 　
