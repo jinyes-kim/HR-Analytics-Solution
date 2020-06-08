@@ -20,7 +20,7 @@ class Employee:
     def print_HR(self, admin):
         if admin == 1:
             print(
-                '[{:>4}]\t{:>2}\t{:>10}\t{:>5}\t{:>10}\t{:>20}\t{:>20}\t{:>10}\t{:>10}\t{:>10}\t{:5}'.
+                '[{:>4}]\t{:>6}\t{:>2}\t{:>2}\t{:>6}\t{:>20}\t{:>20}\t{:>10}\t{:>8}\t{:>8}\t{:>6}'.
                 format(self.id, self.attrition, self.age, self.job_level, self.gender,  self.department, self.job_role,
                        self.marital_status, self.income, self.rate, self.overTime))
         else:
@@ -31,6 +31,6 @@ class Employee:
 
 def print_column(admin):
     if admin == 1:
-        print('ID\tAttrition\tAge\tjobLevel\tGender\t\tDepartment\t\t\t\tJob Role\t\t\t\tMarital Status\tIncome\t\tRate  overTime')
+        print('ID   Attrition   Age\tjobLevel  Gender\tDepartment\t\tJob Role\tMarital Status\tIncome\t\tRate\t\toverTime')
     else:
-        print('ID\tAge\tGender\tDepartment\tJob Role')
+        print('ID\tAge\t\tGender\t\tDepartment\tJob Role')
